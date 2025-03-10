@@ -1,0 +1,28 @@
+apiVersion: eksctl.io/v1alpha5
+kind: ClusterConfig
+
+metadata:
+  name: asr-cluster
+  region: eu-west-1
+
+nodeGroups:
+  - name: asr-nodes
+    instanceType: g4dn.xlarge
+    minSize: 0
+    maxSize: 4
+    desiredCapacity: 2
+    volumeSize: 50
+    ami: ami-03430f4aa09017cd3
+    amiFamily: AmazonLinux2
+    ssh:
+      allow: true
+      publicKeyName: longaws
+    overrideBootstrapCommand: |
+      #!/bin/bash
+      /etc/eks/bootstrap.sh asr-cluster
+
+vpc:
+  clusterEndpoints:
+    publicAccess: true
+  nat:
+    gateway: Disable
