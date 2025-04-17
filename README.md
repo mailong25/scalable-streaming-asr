@@ -3,7 +3,8 @@
 This repository contains all necessary files and instructions to deploy a streaming Automatic Speech Recognition (ASR) service with AWS Elastic Kubernetes Service (EKS).
 
 ## 📦 Pipeline overview
-<img src="pipleline.png">
+
+<img src="pipeline.png">
 
 ---
 
