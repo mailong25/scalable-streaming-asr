@@ -1,0 +1,21 @@
+apiVersion: monitoring.coreos.com/v1  # API version for the ServiceMonitor resource (used by Prometheus Operator)
+kind: ServiceMonitor                  # Declares this resource as a ServiceMonitor
+
+metadata:
+  name: asr-service-monitor           # Name of the ServiceMonitor
+  labels:
+    release: prometheus               # Label typically used to associate this monitor with a Prometheus instance (depends on Prometheus' config)
+
+spec:
+  selector:
+    matchLabels:
+      app: asr                        # Selects the Service to monitor using this label (must match label on the target Service)
+
+  namespaceSelector:
+    matchNames:
+      - default                       # Specifies the namespace where the target Service (asr-service) lives
+
+  endpoints:
+  - port: http                        # Name of the port on the Service to scrape (must match a named port in the Service definition)
+    path: /metrics                    # HTTP path to scrape metrics from (should be exposed by the app)
+    interval: 5s                     # Scrape interval – how often Prometheus scrapes metrics from the target

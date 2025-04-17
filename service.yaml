@@ -1,14 +1,16 @@
-apiVersion: v1
-kind: Service
+apiVersion: v1              # API version for the Service object
+kind: Service               # Declares this resource as a Service
 metadata:
-  name: asr-service
+  name: asr-service         # Name of the Service
   labels:
-    app: asr
+    app: asr                # Label to categorize the Service; often used for selection or organization
+
 spec:
   ports:
-  - port: 80
-    targetPort: 5000
-    protocol: TCP
+  - name: http              # Optional name for the port (useful for monitoring/tools)
+    port: 80                # Port exposed by the Service (external port)
+    targetPort: 5000        # Port on the Pod that the Service forwards traffic to
+    protocol: TCP           # Protocol used; TCP is default and most common
   selector:
-    app: asr
-  type: NodePort
+    app: asr                # The Service routes traffic to Pods with this label
+  type: NodePort            # Exposes the Service on a port on each Node in the cluster

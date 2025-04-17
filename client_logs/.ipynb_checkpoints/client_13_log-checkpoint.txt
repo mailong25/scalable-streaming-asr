@@ -1,0 +1,281 @@
+Processing audios/0.wav
+ASR Result:   | Latency:  0.08017325401306152
+ASR Result:   | Latency:  0.08456158638000488
+ASR Result:   | Latency:  0.11489439010620117
+ASR Result: well  | Latency:  0.10503172874450684
+ASR Result: well they laid  | Latency:  0.08150315284729004
+ASR Result: well they laid  | Latency:  0.09630894660949707
+ASR Result: well they laid off  | Latency:  0.10536956787109375
+ASR Result: well they laid off nur  | Latency:  0.10208964347839355
+ASR Result: well they laid off nurses  | Latency:  0.08145403861999512
+ASR Result: well they laid off nurses is  | Latency:  0.08045578002929688
+ASR Result: well they laid off nurses is what they  | Latency:  0.11082792282104492
+ASR Result: well they laid off nurses is what they did  | Latency:  0.10006523132324219
+ASR Result: well they laid off nurses is what they did  | Latency:  0.0832517147064209
+ASR Result: well they laid off nurses is what they did  | Latency:  0.0812373161315918
+ASR Result: well they laid off nurses is what they did  | Latency:  0.08206915855407715
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.08176064491271973
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.08198857307434082
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.08252263069152832
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.10235595703125
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.08058428764343262
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.07815146446228027
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.08989787101745605
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.10616707801818848
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.12711858749389648
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.09781980514526367
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.0874321460723877
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.16725516319274902
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.07744908332824707
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.08906769752502441
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.08445429801940918
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.10344624519348145
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.10677719116210938
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.08574342727661133
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.09940218925476074
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.14822697639465332
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.15996289253234863
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.18404388427734375
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.18195605278015137
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.1644129753112793
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.15132498741149902
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.14729046821594238
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.1408846378326416
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.1445479393005371
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.17711806297302246
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.16010189056396484
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.14865565299987793
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.18344998359680176
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.14563822746276855
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.13878631591796875
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.14120888710021973
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.13034391403198242
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.16884922981262207
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.13709521293640137
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.10603022575378418
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.11736130714416504
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.10901331901550293
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.11266326904296875
+Avg latency: 0.11609919447647898
+Processing audios/3.wav
+ASR Result:   | Latency:  0.09647440910339355
+ASR Result:   | Latency:  0.10762190818786621
+ASR Result:   | Latency:  0.1036829948425293
+ASR Result:   | Latency:  0.10515356063842773
+ASR Result:   | Latency:  0.13599944114685059
+ASR Result:   | Latency:  0.11868739128112793
+ASR Result: like  | Latency:  0.10540413856506348
+ASR Result: like bas  | Latency:  0.10618805885314941
+ASR Result: like basket  | Latency:  0.14458703994750977
+ASR Result: like basketball  | Latency:  0.14313888549804688
+ASR Result: like basketball  | Latency:  0.12425971031188965
+ASR Result: like basketball in high  | Latency:  0.10083436965942383
+ASR Result: like basketball in high school  | Latency:  0.10757088661193848
+ASR Result: like basketball in high school but  | Latency:  0.1084599494934082
+ASR Result: like basketball in high school but  | Latency:  0.22970247268676758
+ASR Result: like basketball in high school but  | Latency:  0.16303658485412598
+ASR Result: like basketball in high school but  | Latency:  0.15435147285461426
+ASR Result: like basketball in high school but really  | Latency:  0.13794326782226562
+ASR Result: like basketball in high school but really don't  | Latency:  0.11799764633178711
+ASR Result: like basketball in high school but really don't like  | Latency:  0.10800766944885254
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.10912513732910156
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.09352707862854004
+ASR Result: like basketball in high school but really don't like that very  | Latency:  0.15824270248413086
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.14148235321044922
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.12548112869262695
+ASR Result: like basketball in high school but really don't like that very well now  | Latency:  0.142258882522583
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.146956205368042
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.1322619915008545
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.11770915985107422
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.09133648872375488
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.15507268905639648
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.14458703994750977
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.12379693984985352
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.09658217430114746
+ASR Result: like basketball in high school but really don't like that very well now either and base  | Latency:  0.1574079990386963
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.16079330444335938
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.1576218605041504
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my hus  | Latency:  0.13920116424560547
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.1191258430480957
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.09272575378417969
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really  | Latency:  0.17873764038085938
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.15767407417297363
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.1390368938446045
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.13734984397888184
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so  | Latency:  0.12317442893981934
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes  | Latency:  0.09390640258789062
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i  | Latency:  0.08396410942077637
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go  | Latency:  0.08561086654663086
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with  | Latency:  0.07727575302124023
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.14559721946716309
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.12402534484863281
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.09977364540100098
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.0870218276977539
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to  | Latency:  0.0905311107635498
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go  | Latency:  0.09232068061828613
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to  | Latency:  0.08561348915100098
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to base  | Latency:  0.07819461822509766
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball  | Latency:  0.0848073959350586
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball game  | Latency:  0.08215808868408203
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games  | Latency:  0.0843043327331543
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i  | Latency:  0.08425521850585938
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't  | Latency:  0.08289885520935059
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really  | Latency:  0.0832662582397461
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like  | Latency:  0.11776971817016602
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like  | Latency:  0.15891194343566895
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them  | Latency:  0.1607980728149414
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that  | Latency:  0.15333247184753418
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that well  | Latency:  0.13184690475463867
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that well  | Latency:  0.11400604248046875
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.009392976760864258
+Avg latency: 0.1178709296729621
+Processing audios/7.wav
+ASR Result:   | Latency:  0.09563279151916504
+ASR Result:   | Latency:  0.15283560752868652
+ASR Result:   | Latency:  0.1253643035888672
+ASR Result: yeah  | Latency:  0.09343361854553223
+ASR Result: yeah  | Latency:  0.15409445762634277
+ASR Result: yeah  | Latency:  0.1296699047088623
+ASR Result: yeah that  | Latency:  0.09837222099304199
+ASR Result: yeah that  | Latency:  0.15406155586242676
+ASR Result: yeah that you know  | Latency:  0.13057637214660645
+ASR Result: yeah that you know that's  | Latency:  0.1004188060760498
+ASR Result: yeah that you know that's one  | Latency:  0.15839934349060059
+ASR Result: yeah that you know that's one thing  | Latency:  0.13621830940246582
+ASR Result: yeah that you know that's one thing i  | Latency:  0.1315162181854248
+ASR Result: yeah that you know that's one thing i always  | Latency:  0.1018064022064209
+ASR Result: yeah that you know that's one thing i always  | Latency:  0.16374993324279785
+ASR Result: yeah that you know that's one thing i always that  | Latency:  0.13901972770690918
+ASR Result: yeah that you know that's one thing i always that  | Latency:  0.10504651069641113
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.1788790225982666
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.15581274032592773
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.12296223640441895
+ASR Result: yeah that you know that's one thing i always that it's free  | Latency:  0.1263878345489502
+ASR Result: yeah that you know that's one thing i always that it's free  | Latency:  0.12759160995483398
+ASR Result: yeah that you know that's one thing i always that it's free interesting  | Latency:  0.09664154052734375
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know  | Latency:  0.18400979042053223
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know  | Latency:  0.15860652923583984
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my  | Latency:  0.14972162246704102
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.11961817741394043
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.09703779220581055
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.16101908683776855
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family  | Latency:  0.15435552597045898
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my  | Latency:  0.1444261074066162
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my  | Latency:  0.10944342613220215
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.174530029296875
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.1448802947998047
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.10489726066589355
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parent  | Latency:  0.1868586540222168
+Sending EOS
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parents  | Latency:  0.49280786514282227
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parents and  | Latency:  0.4000391960144043
+ASR Result: END_OF_STREAM  | Latency:  0.2901570796966553
+Avg latency: 0.12662956369928566
+Processing audios/3.wav
+ASR Result:   | Latency:  0.0930016040802002
+ASR Result:   | Latency:  0.09546518325805664
+ASR Result:   | Latency:  0.15474343299865723
+ASR Result:   | Latency:  0.1409611701965332
+ASR Result:   | Latency:  0.1329193115234375
+ASR Result:   | Latency:  0.10121917724609375
+ASR Result: like  | Latency:  0.15108132362365723
+ASR Result: like bas  | Latency:  0.1224365234375
+ASR Result: like basket  | Latency:  0.09546709060668945
+ASR Result: like basketball  | Latency:  0.14635777473449707
+ASR Result: like basketball  | Latency:  0.11724305152893066
+ASR Result: like basketball in high  | Latency:  0.10407090187072754
+ASR Result: like basketball in high school  | Latency:  0.16932916641235352
+ASR Result: like basketball in high school but  | Latency:  0.1471254825592041
+ASR Result: like basketball in high school but  | Latency:  0.14309430122375488
+ASR Result: like basketball in high school but  | Latency:  0.12355470657348633
+ASR Result: like basketball in high school but  | Latency:  0.12172627449035645
+ASR Result: like basketball in high school but really  | Latency:  0.17451763153076172
+ASR Result: like basketball in high school but really don't  | Latency:  0.1916036605834961
+ASR Result: like basketball in high school but really don't like  | Latency:  0.16669988632202148
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.16093754768371582
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.1499645709991455
+ASR Result: like basketball in high school but really don't like that very  | Latency:  0.13413238525390625
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.12739944458007812
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.1521620750427246
+ASR Result: like basketball in high school but really don't like that very well now  | Latency:  0.16711688041687012
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.15262579917907715
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.13835811614990234
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.12455582618713379
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.11240863800048828
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.10827231407165527
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.19383478164672852
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.20315241813659668
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.10049200057983398
+ASR Result: like basketball in high school but really don't like that very well now either and base  | Latency:  0.20826148986816406
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.12238049507141113
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.12258291244506836
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my hus  | Latency:  0.11444830894470215
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.09992694854736328
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.16436314582824707
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really  | Latency:  0.15024185180664062
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.13300251960754395
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.11548042297363281
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.09808778762817383
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so  | Latency:  0.21579241752624512
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes  | Latency:  0.12919306755065918
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i  | Latency:  0.11422848701477051
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go  | Latency:  0.09684085845947266
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with  | Latency:  0.19147777557373047
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.19962859153747559
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.09549856185913086
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.16540980339050293
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him  | Latency:  0.21202802658081055
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to  | Latency:  0.11233377456665039
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go  | Latency:  0.15863704681396484
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to  | Latency:  0.1605994701385498
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to base  | Latency:  0.13605308532714844
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball  | Latency:  0.17579936981201172
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball game  | Latency:  0.1714460849761963
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games  | Latency:  0.15998053550720215
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i  | Latency:  0.16787409782409668
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't  | Latency:  0.16654419898986816
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really  | Latency:  0.144850492477417
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like  | Latency:  0.1471233367919922
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like  | Latency:  0.16212916374206543
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them  | Latency:  0.15114045143127441
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that  | Latency:  0.15301108360290527
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that well  | Latency:  0.16373062133789062
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so sometimes i go with him to go to baseball games i don't really like them that well  | Latency:  0.1601700782775879
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.11771082878112793
+Avg latency: 0.13176502211619232
+Processing audios/1.wav
+ASR Result:   | Latency:  0.08465933799743652
+ASR Result:   | Latency:  0.08418679237365723
+ASR Result:   | Latency:  0.08209609985351562
+ASR Result: that  | Latency:  0.08632349967956543
+ASR Result: that's nice  | Latency:  0.11056280136108398
+ASR Result: that's nice  | Latency:  0.09066390991210938
+ASR Result: that's nice  | Latency:  0.11225318908691406
+ASR Result: that's nice  | Latency:  0.08909845352172852
+ASR Result: that's nice  | Latency:  0.08510351181030273
+ASR Result: that's nice  | Latency:  0.08885931968688965
+ASR Result: that's nice  | Latency:  0.0824739933013916
+ASR Result: that's nice  | Latency:  0.08758068084716797
+ASR Result: that's nice yeah  | Latency:  0.11963462829589844
+ASR Result: that's nice yeah i  | Latency:  0.10532116889953613
+ASR Result: that's nice yeah i've been  | Latency:  0.09463381767272949
+ASR Result: that's nice yeah i've been  | Latency:  0.09906625747680664
+ASR Result: that's nice yeah i've been to  | Latency:  0.09087252616882324
+ASR Result: that's nice yeah i've been to okla  | Latency:  0.09061479568481445
+ASR Result: that's nice yeah i've been to oklahoma  | Latency:  0.09131598472595215
+ASR Result: that's nice yeah i've been to oklahoma  | Latency:  0.08585047721862793
+ASR Result: that's nice yeah i've been to oklahoma city  | Latency:  0.08215546607971191
+ASR Result: that's nice yeah i've been to oklahoma city  | Latency:  0.08663725852966309
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.5378377437591553
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.4445788860321045
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.3506050109863281
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.24513745307922363
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.13985466957092285
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.08305859565734863
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.10150146484375
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.0791478157043457
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.09019613265991211
+ASR Result:

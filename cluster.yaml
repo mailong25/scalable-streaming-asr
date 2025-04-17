@@ -1,28 +1,32 @@
-apiVersion: eksctl.io/v1alpha5
-kind: ClusterConfig
+# eksctl cluster configuration file
+apiVersion: eksctl.io/v1alpha5  # Specifies the config schema version
+kind: ClusterConfig             # Declares the kind of resource (EKS cluster config)
 
 metadata:
-  name: asr-cluster
-  region: eu-west-1
+  name: asr-cluster             # Name of the EKS cluster
+  region: eu-west-1             # AWS region for the cluster
 
 nodeGroups:
-  - name: asr-nodes
-    instanceType: g4dn.xlarge
-    minSize: 0
-    maxSize: 4
-    desiredCapacity: 2
-    volumeSize: 50
-    ami: ami-03430f4aa09017cd3
-    amiFamily: AmazonLinux2
+  - name: asr-nodes             # Name of the node group
+    instanceType: g4dn.xlarge   # EC2 instance type (includes GPU, good for ML workloads)
+    minSize: 0                  # Minimum number of nodes (for autoscaling)
+    maxSize: 4                  # Maximum number of nodes
+    desiredCapacity: 1          # Number of nodes to start with
+    volumeSize: 50              # Size of the root volume (in GB) for each node
+    ami: ami-03430f4aa09017cd3  # Custom AMI ID for nodes
+    amiFamily: AmazonLinux2     # Base AMI family used by the cluster
     ssh:
-      allow: true
-      publicKeyName: longaws
-    overrideBootstrapCommand: |
+      allow: true               # Enable SSH access to nodes
+      publicKeyName: longaws    # Name of the EC2 key pair for SSH
+    overrideBootstrapCommand: | # Custom bootstrap script to join cluster
       #!/bin/bash
       /etc/eks/bootstrap.sh asr-cluster
+    tags:
+      k8s.io/cluster-autoscaler/enabled: "true"        # Enables autoscaling on this node group
+      k8s.io/cluster-autoscaler/asr-cluster: "owned"   # Associates autoscaler with this cluster
 
 vpc:
   clusterEndpoints:
-    publicAccess: true
+    publicAccess: true          # Allow public access to Kubernetes API endpoint
   nat:
-    gateway: Disable
+    gateway: Disable            # Disable NAT gateway (no internet access for private subnets)

@@ -1,31 +1,39 @@
-apiVersion: networking.k8s.io/v1
-kind: Ingress
+apiVersion: networking.k8s.io/v1    # API version for Ingress resource
+kind: Ingress                       # Declares this resource as an Ingress
 metadata:
-  name: asr-ingress
+  name: asr-ingress                 # Name of the Ingress resource
   annotations:
-    kubernetes.io/ingress.class: alb
-    alb.ingress.kubernetes.io/scheme: internet-facing
-    alb.ingress.kubernetes.io/target-type: ip
-    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}]'
+    kubernetes.io/ingress.class: alb                   # Specifies the ingress controller to use (AWS ALB in this case)
+    alb.ingress.kubernetes.io/scheme: internet-facing  # Exposes the ALB to the internet (can also be 'internal')
+    alb.ingress.kubernetes.io/target-type: ip          # ALB forwards traffic directly to Pod IPs
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTP": 80}]'  # ALB listens on port 80 for HTTP traffic
+
 spec:
-  rules:
+  rules:                        # Ingress routing rules
   - http:
       paths:
-      - path: /health
+      - path: /health           # Route traffic for /health
+        pathType: Prefix        # Matches any path that starts with /health
+        backend:
+          service:
+            name: asr-service   # Service to route traffic to
+            port:
+              number: 80        # Port on the Service to route to
+      - path: /                 # Route traffic for /
         pathType: Prefix
         backend:
           service:
             name: asr-service
             port:
               number: 80
-      - path: /
+      - path: /ws               # Route traffic for /ws (e.g., for WebSocket connections)
         pathType: Prefix
         backend:
           service:
             name: asr-service
             port:
               number: 80
-      - path: /ws
+      - path: /metrics          # Route traffic for /metrics (for Prometheus scraping)
         pathType: Prefix
         backend:
           service:

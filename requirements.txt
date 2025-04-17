@@ -22,3 +22,4 @@ datasets==3.3.0
 editdistance==0.8.1
 librosa==0.10.2.post1
 ipython==8.32.0
+prometheus-client==0.21.1

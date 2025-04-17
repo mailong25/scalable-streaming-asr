@@ -1,0 +1,94 @@
+Processing audios/6.wav
+ASR Result:   | Latency:  0.08220338821411133
+ASR Result:   | Latency:  0.16318893432617188
+ASR Result:   | Latency:  0.14392352104187012
+ASR Result:   | Latency:  0.12533140182495117
+ASR Result:   | Latency:  0.10921907424926758
+ASR Result:   | Latency:  0.08963322639465332
+ASR Result: probably  | Latency:  0.16967511177062988
+ASR Result: probably like  | Latency:  0.15382099151611328
+ASR Result: probably like  | Latency:  0.13428735733032227
+ASR Result: probably like fiber  | Latency:  0.11339378356933594
+ASR Result: probably like fiber  | Latency:  0.09142327308654785
+ASR Result: probably like fiber six  | Latency:  0.17331218719482422
+ASR Result: probably like fiber six  | Latency:  0.1497352123260498
+ASR Result: probably like fiber six  | Latency:  0.1234121322631836
+ASR Result: probably like fiber six  | Latency:  0.09742569923400879
+ASR Result: probably like fiber six  | Latency:  0.166154146194458
+ASR Result: probably like fiber six couple  | Latency:  0.14423894882202148
+ASR Result: probably like fiber six couple  | Latency:  0.12307929992675781
+ASR Result: probably like fiber six couple social  | Latency:  0.09926915168762207
+ASR Result: probably like fiber six couple social work  | Latency:  0.16263628005981445
+ASR Result: probably like fiber six couple social work class  | Latency:  0.14955878257751465
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.13893389701843262
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.12043905258178711
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.10340166091918945
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.17681026458740234
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.16103744506835938
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.15082883834838867
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.1364269256591797
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.11883687973022461
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.11356616020202637
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.10455155372619629
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.18590116500854492
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.1786949634552002
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.16519451141357422
+ASR Result: probably like fiber six couple social work classes and um families  | Latency:  0.1561732292175293
+ASR Result: probably like fiber six couple social work classes and um families  | Latency:  0.14543557167053223
+ASR Result: probably like fiber six couple social work classes and um families in  | Latency:  0.13039565086364746
+ASR Result: probably like fiber six couple social work classes and um families in ethn  | Latency:  0.10750651359558105
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.17560243606567383
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.1528465747833252
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.13548827171325684
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.11539149284362793
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.09975838661193848
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  0.16417479515075684
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that  | Latency:  0.13855314254760742
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i  | Latency:  0.11661314964294434
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm work  | Latency:  0.08823108673095703
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  0.15518951416015625
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  0.13420748710632324
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  0.11042499542236328
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  0.17733001708984375
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this  | Latency:  0.15911412239074707
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this quarter  | Latency:  0.14989829063415527
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this quarter  | Latency:  0.1344466209411621
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.12130856513977051
+Processing audios/6.wav
+ASR Result:   | Latency:  0.07401585578918457
+ASR Result:   | Latency:  0.13436603546142578
+ASR Result:   | Latency:  0.10964584350585938
+ASR Result:   | Latency:  0.08207058906555176
+ASR Result:   | Latency:  0.14570403099060059
+ASR Result:   | Latency:  0.12627840042114258
+ASR Result: probably  | Latency:  0.10739374160766602
+ASR Result: probably like  | Latency:  0.1640775203704834
+ASR Result: probably like  | Latency:  0.14571261405944824
+ASR Result: probably like fiber  | Latency:  0.12928462028503418
+ASR Result: probably like fiber  | Latency:  0.11681485176086426
+ASR Result: probably like fiber six  | Latency:  0.10436630249023438
+ASR Result: probably like fiber six  | Latency:  0.08555340766906738
+ASR Result: probably like fiber six  | Latency:  0.1761331558227539
+ASR Result: probably like fiber six  | Latency:  0.15959978103637695
+ASR Result: probably like fiber six  | Latency:  0.1348576545715332
+ASR Result: probably like fiber six couple  | Latency:  0.11193704605102539
+ASR Result: probably like fiber six couple  | Latency:  0.10424232482910156
+ASR Result: probably like fiber six couple social  | Latency:  0.0945577621459961
+ASR Result: probably like fiber six couple social work  | Latency:  0.08077549934387207
+ASR Result: probably like fiber six couple social work class  | Latency:  0.1827845573425293
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.17329645156860352
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.15937423706054688
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.1443948745727539
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.12727975845336914
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.11684107780456543
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.10816788673400879
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.09339118003845215
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.08350181579589844
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.17816972732543945
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.16081881523132324
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.14792490005493164
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.13131141662597656
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  0.11209583282470703
+ASR Result: probably like fiber six couple social work classes and um families  | Latency:  0.09099936485290527
+ASR Result: probably like fiber six couple social work classes and um families

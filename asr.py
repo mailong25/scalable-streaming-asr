@@ -2,7 +2,6 @@
 import torch
 import copy
 import time
-import pyaudio as pa
 import numpy as np
 from concurrent.futures import ThreadPoolExecutor
 from nemo.collections.asr.models.ctc_bpe_models import EncDecCTCModelBPE
@@ -16,15 +15,18 @@ logging.setLevel(logging.ERROR)
 
 class ASR:
     def __init__(self, model_name = "stt_en_fastconformer_hybrid_large_streaming_multi",
-                 step_ms = 80,  # varied
+                 chunk_size_ms = 200,
                  lookahead_ms = 80, # [0, 80, 480, 1040]
                  decoder_type = 'rnnt',
                  bs = 32,
-                 use_fp16=True):  # added use_fp16 parameter
+                 use_fp16=True):
         
         # Load the ASR model
         asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name=model_name)
         asr_model.eval()
+        
+        step_ms = 80
+        self.chunk_size_frame = int((chunk_size_ms / 1000) * asr_model.cfg.sample_rate)
         
         if model_name == "stt_en_fastconformer_hybrid_large_streaming_multi":
             left_context_size = asr_model.encoder.att_context_size[0]
@@ -59,7 +61,7 @@ class ASR:
         
         # Cached states of previous predictions
         self.cached_states = {}
-
+        
         # Store model and preprocessor
         self.model = asr_model
         self.preprocessor = preprocessor
@@ -88,14 +90,11 @@ class ASR:
             self.model.change_decoding_strategy(decoding_cfg)
 
     def preprocess_audio(self, audio):
-        # Convert the audio to FP16 here if needed
         audio = np.frombuffer(audio, dtype=np.int16).astype(np.float32) / 32768.0
-        device = self.model.device
-        audio_signal = torch.from_numpy(audio).unsqueeze_(0).to(device)
-        audio_signal_len = torch.Tensor([audio.shape[0]]).to(device)
-        
-        if self.use_fp16:
-            audio_signal = audio_signal.half()
+        padding_length = max(0, self.chunk_size_frame - len(audio))
+        audio = np.pad(audio, (0, padding_length), mode='constant', constant_values=0)[:self.chunk_size_frame]
+        audio_signal = torch.from_numpy(audio).unsqueeze_(0).to(self.model.device)
+        audio_signal_len = torch.Tensor([audio.shape[0]]).to(self.model.device)
         
         processed_signal, processed_signal_length = self.preprocessor(
             input_signal=audio_signal, length=audio_signal_len
@@ -113,7 +112,6 @@ class ASR:
 
     def predict(self, messages):
         self.set_batch_size_decoding(len(messages))
-        print("BS:", len(messages))
         (
             cache_last_channel,
             cache_last_time,

@@ -1,0 +1,600 @@
+Processing audios/4.wav
+ASR Result:   | Latency:  0.10172104835510254
+ASR Result:   | Latency:  0.10054707527160645
+ASR Result:   | Latency:  0.10056900978088379
+ASR Result:   | Latency:  0.10074353218078613
+ASR Result:   | Latency:  0.10084152221679688
+ASR Result:   | Latency:  0.10971522331237793
+ASR Result:   | Latency:  0.11224865913391113
+ASR Result:   | Latency:  0.1476118564605713
+ASR Result:   | Latency:  0.1593179702758789
+ASR Result:   | Latency:  0.15805840492248535
+ASR Result:   | Latency:  0.1641833782196045
+ASR Result:   | Latency:  0.17392897605895996
+ASR Result:   | Latency:  0.17839765548706055
+ASR Result:   | Latency:  0.17698407173156738
+ASR Result: i'm not  | Latency:  0.1792914867401123
+ASR Result: i'm not sure  | Latency:  0.18300962448120117
+ASR Result: i'm not sure  | Latency:  0.18694782257080078
+ASR Result: i'm not sure  | Latency:  0.1845722198486328
+ASR Result: i'm not sure where  | Latency:  0.177992582321167
+ASR Result: i'm not sure where  | Latency:  0.17481541633605957
+ASR Result: i'm not sure where where  | Latency:  0.1859416961669922
+ASR Result: i'm not sure where where'll  | Latency:  0.21279072761535645
+ASR Result: i'm not sure where where'll be  | Latency:  0.12801861763000488
+ASR Result: i'm not sure where where'll be going  | Latency:  0.1301412582397461
+ASR Result: i'm not sure where where'll be going yet  | Latency:  0.13705992698669434
+ASR Result: i'm not sure where where'll be going yet but  | Latency:  0.15189552307128906
+ASR Result: i'm not sure where where'll be going yet but i  | Latency:  0.16076135635375977
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.16317272186279297
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.16702771186828613
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.18047022819519043
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.20856332778930664
+ASR Result: i'm not sure where where'll be going yet but i should find out  | Latency:  0.11791563034057617
+ASR Result: i'm not sure where where'll be going yet but i should find out in  | Latency:  0.12555575370788574
+ASR Result: i'm not sure where where'll be going yet but i should find out in a  | Latency:  0.1441025733947754
+ASR Result: i'm not sure where where'll be going yet but i should find out in a month  | Latency:  0.15522098541259766
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.19937396049499512
+Avg latency: 0.15387526485655043
+Processing audios/8.wav
+ASR Result:   | Latency:  0.10551214218139648
+ASR Result:   | Latency:  0.13208246231079102
+ASR Result:   | Latency:  0.17605876922607422
+ASR Result:   | Latency:  0.2084057331085205
+ASR Result:   | Latency:  0.11647248268127441
+ASR Result:   | Latency:  0.18115639686584473
+ASR Result:   | Latency:  0.20946621894836426
+ASR Result:   | Latency:  0.13104796409606934
+ASR Result:   | Latency:  0.26677584648132324
+ASR Result:   | Latency:  0.29057908058166504
+ASR Result:   | Latency:  0.3145601749420166
+ASR Result:   | Latency:  0.3465080261230469
+ASR Result:   | Latency:  0.3694119453430176
+ASR Result:   | Latency:  0.4157235622406006
+ASR Result:   | Latency:  0.4471321105957031
+ASR Result: only  | Latency:  0.46956396102905273
+ASR Result: only male  | Latency:  0.5029802322387695
+ASR Result: only male when  | Latency:  0.5230298042297363
+ASR Result: only male when the  | Latency:  0.5504224300384521
+ASR Result: only male when the class  | Latency:  0.5752317905426025
+ASR Result: only male when the class  | Latency:  0.6015458106994629
+ASR Result: only male when the class was  | Latency:  0.6327593326568604
+ASR Result: only male when the class was incre  | Latency:  0.6664817333221436
+ASR Result: only male when the class was incredibly  | Latency:  0.7058215141296387
+ASR Result: only male when the class was incredibly eye  | Latency:  0.7540371417999268
+ASR Result: only male when the class was incredibly eye open  | Latency:  0.798513650894165
+ASR Result: only male when the class was incredibly eye opening  | Latency:  0.8305356502532959
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  0.8689091205596924
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.2654378414154053
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.2990434169769287
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.3344416618347168
+ASR Result: only male when the class was incredibly eye opening for me and  | Latency:  1.367530345916748
+ASR Result: only male when the class was incredibly eye opening for me and  | Latency:  1.3967862129211426
+ASR Result: only male when the class was incredibly eye opening for me and that  | Latency:  1.4249250888824463
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.462352991104126
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.5023550987243652
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.5321130752563477
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.5643293857574463
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.5996549129486084
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.6324737071990967
+ASR Result: only male when the class was incredibly eye opening for me and that was great  | Latency:  1.669050931930542
+ASR Result: only male when the class was incredibly eye opening for me and that was great  | Latency:  1.7027132511138916
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.7309000492095947
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.758397102355957
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.7947700023651123
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.8229031562805176
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said  | Latency:  1.8722724914550781
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said  | Latency:  1.9006831645965576
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know  | Latency:  1.9418067932128906
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know  | Latency:  1.9720337390899658
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're  | Latency:  1.996631383895874
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested  | Latency:  2.0264337062835693
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  2.0492031574249268
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  2.0774781703948975
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  2.1089839935302734
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're  | Latency:  2.1394455432891846
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know  | Latency:  2.1616108417510986
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but  | Latency:  2.192983865737915
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  2.2178211212158203
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  2.245030641555786
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  2.270209789276123
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to  | Latency:  2.2965927124023438
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go  | Latency:  2.321887493133545
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go  | Latency:  2.349169969558716
+Sending EOS
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you  | Latency:  2.377760887145996
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take  | Latency:  2.405600070953369
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for  | Latency:  2.4354913234710693
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for  | Latency:  2.456058979034424
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did  | Latency:  2.472815990447998
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did  | Latency:  2.4969260692596436
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it  | Latency:  2.5201072692871094
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it  | Latency:  2.5415446758270264
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was  | Latency:  2.561155080795288
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was great  | Latency:  2.5823724269866943
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was great  | Latency:  2.604856252670288
+ASR Result: END_OF_STREAM  | Latency:  2.621009588241577
+Avg latency: 1.0161284825631551
+Processing audios/7.wav
+ASR Result:   | Latency:  0.241196870803833
+ASR Result:   | Latency:  0.25875258445739746
+ASR Result:   | Latency:  0.2972896099090576
+ASR Result:   | Latency:  0.31963205337524414
+ASR Result:   | Latency:  0.3468184471130371
+ASR Result: it was  | Latency:  0.3706645965576172
+ASR Result: it was just  | Latency:  0.3954753875732422
+ASR Result: it was just called  | Latency:  0.4209909439086914
+ASR Result: it was just called  | Latency:  0.44998979568481445
+ASR Result: it was just called  | Latency:  0.4746396541595459
+ASR Result: it was just called  | Latency:  0.5073237419128418
+ASR Result: it was just called  | Latency:  0.5320920944213867
+ASR Result: it was just called  | Latency:  0.5683693885803223
+ASR Result: it was just called history  | Latency:  0.6046807765960693
+ASR Result: it was just called history which is  | Latency:  0.6369109153747559
+ASR Result: it was just called history which is kind of  | Latency:  0.6728777885437012
+ASR Result: it was just called history which is kind of a  | Latency:  0.7057232856750488
+ASR Result: it was just called history which is kind of a general  | Latency:  0.7344212532043457
+ASR Result: it was just called history which is kind of a general surve  | Latency:  0.7643234729766846
+ASR Result: it was just called history which is kind of a general survey  | Latency:  0.7847380638122559
+ASR Result: it was just called history which is kind of a general survey  | Latency:  0.8034944534301758
+ASR Result: it was just called history which is kind of a general survey course of  | Latency:  0.8325574398040771
+ASR Result: it was just called history which is kind of a general survey course of  | Latency:  0.8598270416259766
+ASR Result: it was just called history which is kind of a general survey course of you  | Latency:  0.8867580890655518
+ASR Result: it was just called history which is kind of a general survey course of you know  | Latency:  0.9060218334197998
+ASR Result: it was just called history which is kind of a general survey course of you know just  | Latency:  0.9289155006408691
+ASR Result: it was just called history which is kind of a general survey course of you know just women  | Latency:  0.9559600353240967
+ASR Result: it was just called history which is kind of a general survey course of you know just women  | Latency:  0.973869800567627
+ASR Result: it was just called history which is kind of a general survey course of you know just women's pro  | Latency:  0.985584020614624
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress  | Latency:  1.002042293548584
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through  | Latency:  1.0167765617370605
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history  | Latency:  1.043079137802124
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.0611250400543213
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.0748343467712402
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.1005985736846924
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.1220555305480957
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from  | Latency:  1.1482858657836914
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women  | Latency:  1.5200042724609375
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's  | Latency:  1.5378108024597168
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective  | Latency:  1.5745553970336914
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective  | Latency:  1.5989489555358887
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that  | Latency:  1.6331307888031006
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you  | Latency:  1.6760284900665283
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you  | Latency:  1.7182741165161133
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't  | Latency:  1.7498512268066406
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get  | Latency:  1.7852253913879395
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that  | Latency:  1.8173446655273438
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that  | Latency:  1.8428947925567627
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that norm  | Latency:  1.8610281944274902
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal  | Latency:  1.881450891494751
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history  | Latency:  1.8941748142242432
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history class  | Latency:  1.9145784378051758
+Sending EOS
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.9268498420715332
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.9408104419708252
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.957568883895874
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.9640018939971924
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.9801716804504395
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so  | Latency:  1.9906630516052246
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was  | Latency:  1.9991672039031982
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was great  | Latency:  2.011880874633789
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was great  | Latency:  2.0260636806488037
+ASR Result: END_OF_STREAM  | Latency:  2.0330936908721924
+Avg latency: 1.071440567915467
+Processing audios/0.wav
+ASR Result:   | Latency:  0.2352733612060547
+ASR Result:   | Latency:  0.26285529136657715
+ASR Result: would have  | Latency:  0.2911183834075928
+ASR Result: would have a  | Latency:  0.32428908348083496
+ASR Result: would have a great  | Latency:  0.3573765754699707
+ASR Result: would have a great role  | Latency:  0.392164945602417
+ASR Result: would have a great role  | Latency:  0.4206211566925049
+ASR Result: would have a great role  | Latency:  0.44557952880859375
+ASR Result: would have a great role teach  | Latency:  0.4903137683868408
+ASR Result: would have a great role teaching  | Latency:  0.5255465507507324
+ASR Result: would have a great role teaching  | Latency:  0.5611071586608887
+ASR Result: would have a great role teaching  | Latency:  0.6137950420379639
+ASR Result: would have a great role teaching  | Latency:  0.6417925357818604
+ASR Result: would have a great role teaching  | Latency:  0.6773474216461182
+ASR Result: would have a great role teaching  | Latency:  0.7063956260681152
+ASR Result: would have a great role teaching so  | Latency:  0.7348134517669678
+ASR Result: would have a great role teaching so  | Latency:  0.7621214389801025
+ASR Result: would have a great role teaching so i thought  | Latency:  0.7823398113250732
+ASR Result: would have a great role teaching so i thought  | Latency:  0.8020932674407959
+ASR Result: would have a great role teaching so i thought  | Latency:  0.8148446083068848
+ASR Result: would have a great role teaching so i thought  | Latency:  0.8304827213287354
+ASR Result: would have a great role teaching so i thought  | Latency:  0.8489108085632324
+ASR Result: would have a great role teaching so i thought  | Latency:  0.8713657855987549
+ASR Result: would have a great role teaching so i thought they  | Latency:  0.8884272575378418
+ASR Result: would have a great role teaching so i thought they gave  | Latency:  0.9070336818695068
+ASR Result: would have a great role teaching so i thought they gave me  | Latency:  0.9233207702636719
+ASR Result: would have a great role teaching so i thought they gave me  | Latency:  0.9326000213623047
+ASR Result: would have a great role teaching so i thought they gave me permission  | Latency:  0.9520552158355713
+ASR Result: would have a great role teaching so i thought they gave me permission  | Latency:  0.9664974212646484
+ASR Result: would have a great role teaching so i thought they gave me permission  | Latency:  0.9810872077941895
+ASR Result: would have a great role teaching so i thought they gave me permission  | Latency:  0.9953415393829346
+ASR Result: would have a great role teaching so i thought they gave me permission  | Latency:  1.0108277797698975
+ASR Result: would have a great role teaching so i thought they gave me permission i think  | Latency:  1.0310108661651611
+ASR Result: would have a great role teaching so i thought they gave me permission i think  | Latency:  1.0547935962677002
+ASR Result: would have a great role teaching so i thought they gave me permission i think  | Latency:  1.080150842666626
+ASR Result: would have a great role teaching so i thought they gave me permission i think  | Latency:  1.106778860092163
+ASR Result: would have a great role teaching so i thought they gave me permission i think  | Latency:  1.136242389678955
+ASR Result: would have a great role teaching so i thought they gave me permission i think me  | Latency:  1.1684222221374512
+ASR Result: would have a great role teaching so i thought they gave me permission i think me  | Latency:  1.2030768394470215
+ASR Result: would have a great role teaching so i thought they gave me permission i think me  | Latency:  1.2304713726043701
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one  | Latency:  1.2596218585968018
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way  | Latency:  1.2871825695037842
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way  | Latency:  1.32029128074646
+Sending EOS
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of function  | Latency:  1.3528878688812256
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of functioning  | Latency:  1.3821821212768555
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of functioning  | Latency:  1.407670021057129
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of functioning as  | Latency:  1.4282808303833008
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of functioning as  | Latency:  1.460191011428833
+ASR Result: would have a great role teaching so i thought they gave me permission i think me in one way of functioning as  | Latency:  1.5020818710327148
+ASR Result: END_OF_STREAM  | Latency:  1.524413824081421
+Avg latency: 1.032661376254899
+Processing audios/3.wav
+ASR Result:   | Latency:  0.406050443649292
+ASR Result:   | Latency:  0.4202852249145508
+ASR Result:   | Latency:  0.43990015983581543
+ASR Result:   | Latency:  0.4539604187011719
+ASR Result: my  | Latency:  0.46704912185668945
+ASR Result: my  | Latency:  0.47481870651245117
+ASR Result: my that's  | Latency:  0.4958500862121582
+ASR Result: my that's where  | Latency:  0.519737720489502
+ASR Result: my that's where my  | Latency:  0.541785478591919
+ASR Result: my that's where my roots  | Latency:  0.5683035850524902
+ASR Result: my that's where my roots are from  | Latency:  0.5916416645050049
+ASR Result: my that's where my roots are from  | Latency:  0.6131184101104736
+ASR Result: my that's where my roots are from is  | Latency:  0.6355748176574707
+ASR Result: my that's where my roots are from is from s  | Latency:  0.6715002059936523
+ASR Result: my that's where my roots are from is from scot  | Latency:  0.7036283016204834
+ASR Result: my that's where my roots are from is from scotland  | Latency:  0.7423291206359863
+ASR Result: my that's where my roots are from is from scotland  | Latency:  0.7733242511749268
+ASR Result: my that's where my roots are from is from scotland so  | Latency:  0.8059759140014648
+ASR Result: my that's where my roots are from is from scotland so  | Latency:  0.8385322093963623
+ASR Result: my that's where my roots are from is from scotland so  | Latency:  0.8683586120605469
+ASR Result: my that's where my roots are from is from scotland so  | Latency:  0.8988430500030518
+ASR Result: my that's where my roots are from is from scotland so  | Latency:  0.9379246234893799
+ASR Result: my that's where my roots are from is from scotland so and  | Latency:  0.9738833904266357
+ASR Result: my that's where my roots are from is from scotland so and  | Latency:  1.0126307010650635
+ASR Result: my that's where my roots are from is from scotland so and  | Latency:  1.0437850952148438
+ASR Result: my that's where my roots are from is from scotland so and  | Latency:  1.079324722290039
+ASR Result: my that's where my roots are from is from scotland so and just  | Latency:  1.1176912784576416
+ASR Result: my that's where my roots are from is from scotland so and just other  | Latency:  1.1521930694580078
+ASR Result: my that's where my roots are from is from scotland so and just other one  | Latency:  1.194016933441162
+ASR Result: my that's where my roots are from is from scotland so and just other ones  | Latency:  1.2361347675323486
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just  | Latency:  1.268582820892334
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just  | Latency:  1.2873051166534424
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from  | Latency:  1.3041226863861084
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from  | Latency:  1.3244554996490479
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from  | Latency:  1.3510987758636475
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england  | Latency:  1.3736371994018555
+Sending EOS
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england  | Latency:  1.4106323719024658
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england and  | Latency:  1.4242327213287354
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england and stuff  | Latency:  1.4368135929107666
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england and stuff so  | Latency:  1.4464459419250488
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england and stuff so  | Latency:  1.4619650840759277
+ASR Result: my that's where my roots are from is from scotland so and just other ones are just from from england and stuff so  | Latency:  1.4640226364135742
+ASR Result: END_OF_STREAM  | Latency:  1.4693067073822021
+Avg latency: 1.0187899682405737
+Processing audios/7.wav
+ASR Result:   | Latency:  0.2254955768585205
+ASR Result:   | Latency:  0.2542729377746582
+ASR Result:   | Latency:  0.2861459255218506
+ASR Result:   | Latency:  0.31415510177612305
+ASR Result:   | Latency:  0.33666110038757324
+ASR Result: it was  | Latency:  0.36266326904296875
+ASR Result: it was just  | Latency:  0.388077974319458
+ASR Result: it was just called  | Latency:  0.4142882823944092
+ASR Result: it was just called  | Latency:  0.4362328052520752
+ASR Result: it was just called  | Latency:  0.4542069435119629
+ASR Result: it was just called  | Latency:  0.4622061252593994
+ASR Result: it was just called  | Latency:  0.47568631172180176
+ASR Result: it was just called  | Latency:  0.484210729598999
+ASR Result: it was just called history  | Latency:  0.4977760314941406
+ASR Result: it was just called history which is  | Latency:  0.5140407085418701
+ASR Result: it was just called history which is kind of  | Latency:  0.530564546585083
+ASR Result: it was just called history which is kind of a  | Latency:  0.5531909465789795
+ASR Result: it was just called history which is kind of a general  | Latency:  0.5704162120819092
+ASR Result: it was just called history which is kind of a general surve  | Latency:  0.5972132682800293
+ASR Result: it was just called history which is kind of a general survey  | Latency:  0.6289124488830566
+ASR Result: it was just called history which is kind of a general survey  | Latency:  0.6574807167053223
+ASR Result: it was just called history which is kind of a general survey course of  | Latency:  0.6976103782653809
+ASR Result: it was just called history which is kind of a general survey course of  | Latency:  0.7306838035583496
+ASR Result: it was just called history which is kind of a general survey course of you  | Latency:  0.753009557723999
+ASR Result: it was just called history which is kind of a general survey course of you know  | Latency:  0.7883644104003906
+ASR Result: it was just called history which is kind of a general survey course of you know just  | Latency:  0.8176724910736084
+ASR Result: it was just called history which is kind of a general survey course of you know just women  | Latency:  0.8430614471435547
+ASR Result: it was just called history which is kind of a general survey course of you know just women  | Latency:  0.8639636039733887
+ASR Result: it was just called history which is kind of a general survey course of you know just women's pro  | Latency:  0.8885653018951416
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress  | Latency:  0.90907883644104
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through  | Latency:  0.9272072315216064
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history  | Latency:  0.9456703662872314
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  0.9642739295959473
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  0.9905130863189697
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.0027377605438232
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that  | Latency:  1.0188393592834473
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from  | Latency:  1.0301012992858887
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women  | Latency:  1.0447018146514893
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's  | Latency:  1.0660793781280518
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective  | Latency:  1.0909831523895264
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective  | Latency:  1.4518663883209229
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that  | Latency:  1.484680414199829
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you  | Latency:  1.5157198905944824
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you  | Latency:  1.5504992008209229
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't  | Latency:  1.579087495803833
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get  | Latency:  1.608910083770752
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that  | Latency:  1.6431238651275635
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that  | Latency:  1.6800599098205566
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that norm  | Latency:  1.709885835647583
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal  | Latency:  1.7363784313201904
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history  | Latency:  1.7602496147155762
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history class  | Latency:  1.7801718711853027
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.8036596775054932
+Sending EOS
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.831193447113037
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.8531773090362549
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.873168706893921
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes  | Latency:  1.8892638683319092
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so  | Latency:  1.9215896129608154
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was  | Latency:  1.9545342922210693
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was great  | Latency:  1.9805593490600586
+ASR Result: it was just called history which is kind of a general survey course of you know just women's progress through history that from women's perspective that you don't get that normal history classes so it was great  | Latency:  2.018401861190796
+ASR Result: END_OF_STREAM  | Latency:  2.04561710357666
+Avg latency: 1.0258532976307042
+Processing audios/2.wav
+ASR Result:   | Latency:  0.2173299789428711
+ASR Result:   | Latency:  0.2318272590637207
+ASR Result:   | Latency:  0.24051475524902344
+ASR Result: so  | Latency:  0.2594285011291504
+ASR Result: so  | Latency:  0.264951229095459
+ASR Result: so and  | Latency:  0.2683074474334717
+ASR Result: so and and  | Latency:  0.2839040756225586
+ASR Result: so and and i  | Latency:  0.3005492687225342
+ASR Result: so and and i want to  | Latency:  0.31446051597595215
+ASR Result: so and and i want to go  | Latency:  0.3339705467224121
+ASR Result: so and and i want to go  | Latency:  0.3522372245788574
+ASR Result: so and and i want to go if  | Latency:  0.38295936584472656
+ASR Result: so and and i want to go if  | Latency:  0.40621376037597656
+ASR Result: so and and i want to go if  | Latency:  0.42823171615600586
+ASR Result: so and and i want to go if i do  | Latency:  0.4604642391204834
+ASR Result: so and and i want to go if i do go  | Latency:  0.4921901226043701
+ASR Result: so and and i want to go if i do go to  | Latency:  0.5290100574493408
+ASR Result: so and and i want to go if i do go to sco  | Latency:  0.5554535388946533
+ASR Result: so and and i want to go if i do go to sco  | Latency:  0.5836837291717529
+ASR Result: so and and i want to go if i do go to sco you know  | Latency:  0.6153664588928223
+ASR Result: so and and i want to go if i do go to sco you know i  | Latency:  0.6522927284240723
+ASR Result: so and and i want to go if i do go to sco you know i just vis  | Latency:  0.6925601959228516
+ASR Result: so and and i want to go if i do go to sco you know i just visit  | Latency:  0.7284362316131592
+ASR Result: so and and i want to go if i do go to sco you know i just visit some  | Latency:  0.7574760913848877
+ASR Result: so and and i want to go if i do go to sco you know i just visit some cast  | Latency:  0.7773675918579102
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles  | Latency:  0.7962291240692139
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and  | Latency:  0.8178391456604004
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.8380718231201172
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.8555002212524414
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.8704197406768799
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.8895273208618164
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think  | Latency:  0.9085988998413086
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think  | Latency:  0.9463403224945068
+Sending EOS
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd  | Latency:  0.9700758457183838
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be  | Latency:  0.9924600124359131
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be awes  | Latency:  1.0174777507781982
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be awesome  | Latency:  1.0562543869018555
+ASR Result: END_OF_STREAM  | Latency:  1.066272258758545
+Avg latency: 0.9827247640417447
+Processing audios/9.wav
+ASR Result:   | Latency:  0.2130732536315918
+ASR Result:   | Latency:  0.22951674461364746
+ASR Result:   | Latency:  0.24147868156433105
+ASR Result:   | Latency:  0.2641172409057617
+ASR Result: two  | Latency:  0.2780587673187256
+ASR Result: two to  | Latency:  0.29985690116882324
+ASR Result: two to be  | Latency:  0.32779765129089355
+ASR Result: two to be free  | Latency:  0.3425626754760742
+ASR Result: two to be free  | Latency:  0.35855937004089355
+ASR Result: two to be free  | Latency:  0.38289642333984375
+ASR Result: two to be free  | Latency:  0.3997468948364258
+ASR Result: two to be free  | Latency:  0.7608985900878906
+ASR Result: two to be free  | Latency:  0.774437427520752
+ASR Result: two to be free  | Latency:  0.7906010150909424
+ASR Result: two to be free and  | Latency:  0.8181545734405518
+ASR Result: two to be free and she's  | Latency:  0.8329644203186035
+ASR Result: two to be free and she's  | Latency:  0.8466627597808838
+ASR Result: two to be free and she's  | Latency:  0.8666136264801025
+ASR Result: two to be free and she's  | Latency:  0.8807101249694824
+ASR Result: two to be free and she's  | Latency:  0.8991656303405762
+ASR Result: two to be free and she's i  | Latency:  0.9133028984069824
+ASR Result: two to be free and she's i i  | Latency:  0.9364445209503174
+ASR Result: two to be free and she's i i  | Latency:  0.953066349029541
+ASR Result: two to be free and she's i i can be  | Latency:  0.9832096099853516
+ASR Result: two to be free and she's i i can be with  | Latency:  1.0086174011230469
+ASR Result: two to be free and she's i i can be with her  | Latency:  1.029038906097412
+ASR Result: two to be free and she's i i can be with her children  | Latency:  1.0541822910308838
+ASR Result: two to be free and she's i i can be with her children  | Latency:  1.0970780849456787
+ASR Result: two to be free and she's i i can be with her children  | Latency:  1.1135449409484863
+ASR Result: two to be free and she's i i can be with her children as  | Latency:  1.1290624141693115
+ASR Result: two to be free and she's i i can be with her children as a  | Latency:  1.152174949645996
+ASR Result: two to be free and she's i i can be with her children as a parent  | Latency:  1.1829166412353516
+ASR Result: two to be free and she's i i can be with her children as a parent  | Latency:  1.2000668048858643
+ASR Result: two to be free and she's i i can be with her children as a parent  | Latency:  1.2227723598480225
+ASR Result: two to be free and she's i i can be with her children as a parent  | Latency:  1.2464299201965332
+ASR Result: two to be free and she's i i can be with her children as a parent  | Latency:  1.2689862251281738
+ASR Result: two to be free and she's i i can be with her children as a parent and that  | Latency:  1.2842261791229248
+ASR Result: two to be free and she's i i can be with her children as a parent and that  | Latency:  1.3062412738800049
+ASR Result: two to be free and she's i i can be with her children as a parent and that  | Latency:  1.3273253440856934
+ASR Result: two to be free and she's i i can be with her children as a parent and that any  | Latency:  1.3556711673736572
+ASR Result: two to be free and she's i i can be with her children as a parent and that any  | Latency:  1.373255968093872
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.3878254890441895
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.4083290100097656
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.4211759567260742
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.4411864280700684
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.4613609313964844
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.480656385421753
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.510197401046753
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.525721788406372
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.5484447479248047
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.564633846282959
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.5943694114685059
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime  | Latency:  1.6192684173583984
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they  | Latency:  1.6431894302368164
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have  | Latency:  1.6779632568359375
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a  | Latency:  1.7166743278503418
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect  | Latency:  1.7542657852172852
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for  | Latency:  1.797860860824585
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for ad  | Latency:  1.8411192893981934
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adult  | Latency:  1.8891820907592773
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults  | Latency:  1.9399738311767578
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults  | Latency:  2.008976459503174
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults  | Latency:  2.0500922203063965
+Sending EOS
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults  | Latency:  2.083651065826416
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults  | Latency:  2.117515802383423
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the  | Latency:  2.15350604057312
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children  | Latency:  2.1965396404266357
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children  | Latency:  2.247779130935669
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children are  | Latency:  2.2830166816711426
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children are  | Latency:  2.312720537185669
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children are  | Latency:  2.354531764984131
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children are adul  | Latency:  2.387854814529419
+ASR Result: two to be free and she's i i can be with her children as a parent and that anytime they have a respect for adults the children are adults  | Latency:  2.412022113800049
+ASR Result: END_OF_STREAM  | Latency:  2.426485061645508
+Avg latency: 1.035971803730037
+Processing audios/8.wav
+ASR Result:   | Latency:  0.2193136215209961
+ASR Result:   | Latency:  0.23923277854919434
+ASR Result:   | Latency:  0.25206613540649414
+ASR Result:   | Latency:  0.2549307346343994
+ASR Result:   | Latency:  0.25380754470825195
+ASR Result:   | Latency:  0.2606089115142822
+ASR Result:   | Latency:  0.26737260818481445
+ASR Result:   | Latency:  0.2780017852783203
+ASR Result:   | Latency:  0.2876262664794922
+ASR Result:   | Latency:  0.29998254776000977
+ASR Result:   | Latency:  0.31565356254577637
+ASR Result:   | Latency:  0.333204984664917
+ASR Result:   | Latency:  0.35120272636413574
+ASR Result:   | Latency:  0.36489248275756836
+ASR Result:   | Latency:  0.3864755630493164
+ASR Result: only  | Latency:  0.405458927154541
+ASR Result: only male  | Latency:  0.42453432083129883
+ASR Result: only male when  | Latency:  0.4446277618408203
+ASR Result: only male when the  | Latency:  0.47978663444519043
+ASR Result: only male when the class  | Latency:  0.5160894393920898
+ASR Result: only male when the class  | Latency:  0.5553631782531738
+ASR Result: only male when the class was  | Latency:  0.5898463726043701
+ASR Result: only male when the class was incre  | Latency:  0.6162714958190918
+ASR Result: only male when the class was incredibly  | Latency:  1.0150806903839111
+ASR Result: only male when the class was incredibly eye  | Latency:  1.0429913997650146
+ASR Result: only male when the class was incredibly eye open  | Latency:  1.0843863487243652
+ASR Result: only male when the class was incredibly eye opening  | Latency:  1.1164038181304932
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.1477184295654297
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.173516035079956
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.2016642093658447
+ASR Result: only male when the class was incredibly eye opening for me  | Latency:  1.2298223972320557
+ASR Result: only male when the class was incredibly eye opening for me and  | Latency:  1.2588236331939697
+ASR Result: only male when the class was incredibly eye opening for me and  | Latency:  1.2880065441131592
+ASR Result: only male when the class was incredibly eye opening for me and that  | Latency:  1.3194310665130615
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.3525688648223877
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.3830227851867676
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.4143855571746826
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.4462430477142334
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.4721550941467285
+ASR Result: only male when the class was incredibly eye opening for me and that was  | Latency:  1.5076253414154053
+ASR Result: only male when the class was incredibly eye opening for me and that was great  | Latency:  1.5319955348968506
+ASR Result: only male when the class was incredibly eye opening for me and that was great  | Latency:  1.5539064407348633
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.5744874477386475
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.5919406414031982
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.6227917671203613
+ASR Result: only male when the class was incredibly eye opening for me and that was great my  | Latency:  1.6404786109924316
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said  | Latency:  1.6625607013702393
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said  | Latency:  1.679945707321167
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know  | Latency:  1.700108289718628
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know  | Latency:  1.7256641387939453
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're  | Latency:  1.7470767498016357
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested  | Latency:  1.771742343902588
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  1.8027880191802979
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  1.8277792930603027
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in  | Latency:  1.854006290435791
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're  | Latency:  1.883859634399414
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know  | Latency:  1.9048657417297363
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but  | Latency:  1.929975986480713
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  1.9533238410949707
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  1.9747226238250732
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you  | Latency:  2.0004806518554688
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to  | Latency:  2.0178236961364746
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go  | Latency:  2.041475296020508
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go  | Latency:  2.064471483230591
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you  | Latency:  2.0829689502716064
+Sending EOS
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take  | Latency:  2.1224968433380127
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for  | Latency:  2.146583080291748
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for  | Latency:  2.162168025970459
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did  | Latency:  2.1765871047973633
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did  | Latency:  2.209073305130005
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it  | Latency:  2.2215967178344727
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it  | Latency:  2.2382655143737793
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was  | Latency:  2.2473459243774414
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was great  | Latency:  2.2525548934936523
+ASR Result: only male when the class was incredibly eye opening for me and that was great my said you know you're interested in you're well know but you you need to go you take for i did it was great  | Latency:  2.2654271125793457
+ASR Result: END_OF_STREAM  | Latency:  2.2729482650756836
+Avg latency: 1.0757641155899609
+Processing audios/6.wav
+ASR Result:   | Latency:  0.2234508991241455
+ASR Result:   | Latency:  0.24921178817749023
+ASR Result:   | Latency:  0.27286553382873535
+ASR Result:   | Latency:  0.30478763580322266
+ASR Result:   | Latency:  0.3335537910461426
+ASR Result:   | Latency:  0.3655228614807129
+ASR Result: probably  | Latency:  0.4037165641784668
+ASR Result: probably like  | Latency:  0.43312907218933105
+ASR Result: probably like  | Latency:  0.45438623428344727
+ASR Result: probably like fiber  | Latency:  0.4823336601257324
+ASR Result: probably like fiber  | Latency:  0.5125305652618408
+ASR Result: probably like fiber six  | Latency:  0.5447323322296143
+ASR Result: probably like fiber six  | Latency:  0.5681288242340088
+ASR Result: probably like fiber six  | Latency:  0.6031267642974854
+ASR Result: probably like fiber six  | Latency:  0.6502566337585449
+ASR Result: probably like fiber six  | Latency:  0.6852600574493408
+ASR Result: probably like fiber six couple  | Latency:  0.7234528064727783
+ASR Result: probably like fiber six couple  | Latency:  0.7551734447479248
+ASR Result: probably like fiber six couple social  | Latency:  0.7861948013305664
+ASR Result: probably like fiber six couple social work  | Latency:  0.815333366394043
+ASR Result: probably like fiber six couple social work class  | Latency:  0.8635880947113037
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.8832728862762451
+ASR Result: probably like fiber six couple social work classes  | Latency:  0.9059407711029053
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.9295074939727783
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.9682073593139648
+ASR Result: probably like fiber six couple social work classes and  | Latency:  0.9897327423095703
+ASR Result: probably like fiber six couple social work classes and  | Latency:  1.0120840072631836
+ASR Result: probably like fiber six couple social work classes and  | Latency:  1.0241634845733643
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.035874843597412
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.0498592853546143
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.0671768188476562
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.0768160820007324
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.099618911743164
+ASR Result: probably like fiber six couple social work classes and um  | Latency:  1.448709487915039
+ASR Result: probably like fiber six couple social work classes and um families  | Latency:  1.4588618278503418
+ASR Result: probably like fiber six couple social work classes and um families  | Latency:  1.4714844226837158
+ASR Result: probably like fiber six couple social work classes and um families in  | Latency:  1.488661289215088
+ASR Result: probably like fiber six couple social work classes and um families in ethn  | Latency:  1.5106937885284424
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.5325660705566406
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.559614896774292
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.5868940353393555
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.6131012439727783
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.6512351036071777
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity  | Latency:  1.6830024719238281
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that  | Latency:  1.7225801944732666
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i  | Latency:  1.7522320747375488
+Sending EOS
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm work  | Latency:  1.7865161895751953
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  1.8171989917755127
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  1.8470654487609863
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  1.877073049545288
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on  | Latency:  1.921541452407837
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this  | Latency:  1.9500510692596436
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this quarter  | Latency:  1.9832758903503418
+ASR Result: probably like fiber six couple social work classes and um families in ethnicity that i'm working on this quarter  | Latency:  2.014573335647583

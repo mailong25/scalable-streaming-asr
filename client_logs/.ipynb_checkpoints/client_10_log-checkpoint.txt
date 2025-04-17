@@ -1,0 +1,283 @@
+Processing audios/2.wav
+ASR Result:   | Latency:  0.0804898738861084
+ASR Result:   | Latency:  0.14490962028503418
+ASR Result:   | Latency:  0.11408472061157227
+ASR Result: so  | Latency:  0.07395267486572266
+ASR Result: so  | Latency:  0.13329577445983887
+ASR Result: so and  | Latency:  0.08059430122375488
+ASR Result: so and and  | Latency:  0.08052515983581543
+ASR Result: so and and i  | Latency:  0.08029317855834961
+ASR Result: so and and i want to  | Latency:  0.39995670318603516
+ASR Result: so and and i want to go  | Latency:  0.294173002243042
+ASR Result: so and and i want to go  | Latency:  0.18386507034301758
+ASR Result: so and and i want to go if  | Latency:  0.1629042625427246
+ASR Result: so and and i want to go if  | Latency:  0.1554889678955078
+ASR Result: so and and i want to go if  | Latency:  0.15985512733459473
+ASR Result: so and and i want to go if i do  | Latency:  0.07979249954223633
+ASR Result: so and and i want to go if i do go  | Latency:  0.0837404727935791
+ASR Result: so and and i want to go if i do go to  | Latency:  0.15585565567016602
+ASR Result: so and and i want to go if i do go to sco  | Latency:  0.08125519752502441
+ASR Result: so and and i want to go if i do go to sco  | Latency:  0.1528949737548828
+ASR Result: so and and i want to go if i do go to sco you know  | Latency:  0.157151460647583
+ASR Result: so and and i want to go if i do go to sco you know i  | Latency:  0.12365174293518066
+ASR Result: so and and i want to go if i do go to sco you know i just vis  | Latency:  0.12183809280395508
+ASR Result: so and and i want to go if i do go to sco you know i just visit  | Latency:  0.13497686386108398
+ASR Result: so and and i want to go if i do go to sco you know i just visit some  | Latency:  0.1351478099822998
+ASR Result: so and and i want to go if i do go to sco you know i just visit some cast  | Latency:  0.13365554809570312
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles  | Latency:  0.13343548774719238
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and  | Latency:  0.13200092315673828
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.1371607780456543
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.10169601440429688
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.15574336051940918
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff  | Latency:  0.13182401657104492
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think  | Latency:  0.09882497787475586
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think  | Latency:  0.16629838943481445
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd  | Latency:  0.1405034065246582
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be  | Latency:  0.11416912078857422
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be awes  | Latency:  0.17487883567810059
+ASR Result: so and and i want to go if i do go to sco you know i just visit some castles and stuff i think that'd be awesome  | Latency:  0.16210722923278809
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.12615489959716797
+Processing audios/4.wav
+ASR Result:   | Latency:  0.18918871879577637
+ASR Result:   | Latency:  0.18552041053771973
+ASR Result:   | Latency:  0.17180252075195312
+ASR Result:   | Latency:  0.1389787197113037
+ASR Result:   | Latency:  0.47730517387390137
+ASR Result:   | Latency:  0.38506150245666504
+ASR Result:   | Latency:  0.29281163215637207
+ASR Result:   | Latency:  0.19246602058410645
+ASR Result:   | Latency:  0.18096661567687988
+ASR Result:   | Latency:  0.15306615829467773
+ASR Result:   | Latency:  0.1295177936553955
+ASR Result:   | Latency:  0.10043573379516602
+ASR Result:   | Latency:  0.08605194091796875
+ASR Result:   | Latency:  0.17850399017333984
+ASR Result: i'm not  | Latency:  0.15378308296203613
+ASR Result: i'm not sure  | Latency:  0.13510441780090332
+ASR Result: i'm not sure  | Latency:  0.12180423736572266
+ASR Result: i'm not sure  | Latency:  0.11268353462219238
+ASR Result: i'm not sure where  | Latency:  0.10399365425109863
+ASR Result: i'm not sure where  | Latency:  0.10077428817749023
+ASR Result: i'm not sure where where  | Latency:  0.09606218338012695
+ASR Result: i'm not sure where where'll  | Latency:  0.09195971488952637
+ASR Result: i'm not sure where where'll be  | Latency:  0.16815733909606934
+ASR Result: i'm not sure where where'll be going  | Latency:  0.16254568099975586
+ASR Result: i'm not sure where where'll be going yet  | Latency:  0.1512899398803711
+ASR Result: i'm not sure where where'll be going yet but  | Latency:  0.14322161674499512
+ASR Result: i'm not sure where where'll be going yet but i  | Latency:  0.12103009223937988
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.10373234748840332
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.07733154296875
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.17395949363708496
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.15746688842773438
+ASR Result: i'm not sure where where'll be going yet but i should find out  | Latency:  0.1419990062713623
+ASR Result: i'm not sure where where'll be going yet but i should find out in  | Latency:  0.13040852546691895
+ASR Result: i'm not sure where where'll be going yet but i should find out in a  | Latency:  0.12407922744750977
+ASR Result: i'm not sure where where'll be going yet but i should find out in a month  | Latency:  0.11803483963012695
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.10338044166564941
+Processing audios/1.wav
+ASR Result:   | Latency:  0.09608650207519531
+ASR Result:   | Latency:  0.0991063117980957
+ASR Result: so  | Latency:  0.12019205093383789
+ASR Result: so  | Latency:  0.10371065139770508
+ASR Result: so  | Latency:  0.09604930877685547
+ASR Result: so and  | Latency:  0.09308195114135742
+ASR Result: so and  | Latency:  0.1901531219482422
+ASR Result: so and  | Latency:  0.20712041854858398
+ASR Result: so and  | Latency:  0.19137239456176758
+ASR Result: so and and  | Latency:  0.19103002548217773
+ASR Result: so and and  | Latency:  0.19408512115478516
+ASR Result: so and and uh  | Latency:  0.19388937950134277
+ASR Result: so and and uh  | Latency:  0.19380545616149902
+ASR Result: so and and uh i  | Latency:  0.20183515548706055
+ASR Result: so and and uh i've  | Latency:  0.09689807891845703
+ASR Result: so and and uh i've  | Latency:  0.10980796813964844
+ASR Result: so and and uh i've  | Latency:  0.12430024147033691
+ASR Result: so and and uh i've i've  | Latency:  0.13299560546875
+ASR Result: so and and uh i've i've been  | Latency:  0.15940046310424805
+ASR Result: so and and uh i've i've been there  | Latency:  0.18566441535949707
+ASR Result: so and and uh i've i've been there  | Latency:  0.1998584270477295
+ASR Result: so and and uh i've i've been there  | Latency:  0.09432268142700195
+ASR Result: so and and uh i've i've been there and  | Latency:  0.10492157936096191
+ASR Result: so and and uh i've i've been there and i  | Latency:  0.11355209350585938
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.12187075614929199
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.12685585021972656
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.13518738746643066
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.13466238975524902
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.13083171844482422
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.13481998443603516
+ASR Result: so and and uh i've i've been there and i think  | Latency:  0.13304996490478516
+ASR Result: so and and uh i've i've been there and i think and  | Latency:  0.14345264434814453
+ASR Result: so and and uh i've i've been there and i think and i've  | Latency:  0.15523219108581543
+ASR Result: so and and uh i've i've been there and i think and i've gone  | Latency:  0.1649768352508545
+ASR Result: so and and uh i've i've been there and i think and i've gone  | Latency:  0.16696667671203613
+ASR Result: so and and uh i've i've been there and i think and i've gone i've  | Latency:  0.1749730110168457
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone  | Latency:  0.17458128929138184
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone  | Latency:  0.16346240043640137
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone  | Latency:  0.15837430953979492
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone  | Latency:  0.16425418853759766
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone  | Latency:  0.16961359977722168
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh  | Latency:  0.16123676300048828
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've  | Latency:  0.1611769199371338
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've  | Latency:  0.1619727611541748
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've  | Latency:  0.16624665260314941
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climb  | Latency:  0.1562790870666504
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed  | Latency:  0.16034340858459473
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some moun  | Latency:  0.1552143096923828
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountain  | Latency:  0.14692020416259766
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains  | Latency:  0.15470480918884277
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains  | Latency:  0.1582021713256836
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains  | Latency:  0.14865708351135254
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over  | Latency:  0.13991069793701172
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there  | Latency:  0.13205718994140625
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there  | Latency:  0.13110733032226562
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and  | Latency:  0.11784172058105469
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's  | Latency:  0.11256051063537598
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's  | Latency:  0.1157841682434082
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's  | Latency:  0.1125342845916748
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just  | Latency:  0.11362004280090332
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just  | Latency:  0.1065816879272461
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just  | Latency:  0.18826556205749512
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just wonderful  | Latency:  0.191511869430542
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just wonderful  | Latency:  0.1855461597442627
+ASR Result: so and and uh i've i've been there and i think and i've gone i've gone uh i've climbed some mountains over there and it's it's just wonderful  | Latency:  0.1766669750213623
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.17064189910888672
+Processing audios/5.wav
+ASR Result:   | Latency:  0.10105633735656738
+ASR Result:   | Latency:  0.18038320541381836
+ASR Result:   | Latency:  0.18409299850463867
+ASR Result: um  | Latency:  0.1841144561767578
+ASR Result: um  | Latency:  0.17172026634216309
+ASR Result: um  | Latency:  0.15536117553710938
+ASR Result: um but  | Latency:  0.1549983024597168
+ASR Result: um but  | Latency:  0.14742279052734375
+ASR Result: um but  | Latency:  0.1375718116760254
+ASR Result: um but like  | Latency:  0.13665461540222168
+ASR Result: um but like  | Latency:  0.15325927734375
+ASR Result: um but like  | Latency:  0.15218067169189453
+ASR Result: um but like  | Latency:  0.15108251571655273
+ASR Result: um but like next  | Latency:  0.14504313468933105
+ASR Result: um but like next quar  | Latency:  0.14252614974975586
+ASR Result: um but like next quarter  | Latency:  0.1370530128479004
+ASR Result: um but like next quarter i'm  | Latency:  0.13762211799621582
+ASR Result: um but like next quarter i'm going to be  | Latency:  0.13767719268798828
+ASR Result: um but like next quarter i'm going to be taking  | Latency:  0.14763522148132324
+ASR Result: um but like next quarter i'm going to be taking  | Latency:  0.15166378021240234
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.15520882606506348
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.14905643463134766
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.1513385772705078
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.15999698638916016
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.15715575218200684
+ASR Result: um but like next quarter i'm going to be taking um gay  | Latency:  0.1604464054107666
+ASR Result: um but like next quarter i'm going to be taking um gay b  | Latency:  0.1581258773803711
+ASR Result: um but like next quarter i'm going to be taking um gay bisex  | Latency:  0.1576995849609375
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual  | Latency:  0.15554499626159668
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual  | Latency:  0.15044093132019043
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesb  | Latency:  0.15255498886108398
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.15442776679992676
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.1682276725769043
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.16943144798278809
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.17530441284179688
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.1708219051361084
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.1575019359588623
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couple  | Latency:  0.1625964641571045
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples  | Latency:  0.14407062530517578
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples  | Latency:  0.1262829303741455
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or  | Latency:  0.1098623275756836
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or  | Latency:  0.11871933937072754
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or  | Latency:  0.10863590240478516
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or  | Latency:  0.09066057205200195
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individual  | Latency:  0.16925954818725586
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals  | Latency:  0.1525413990020752
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff  | Latency:  0.13925385475158691
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff  | Latency:  0.13239502906799316
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and  | Latency:  0.11944437026977539
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and  | Latency:  0.09670567512512207
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and  | Latency:  0.1736912727355957
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and  | Latency:  0.16438889503479004
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and um  | Latency:  0.15859556198120117
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or individuals and stuff and um  | Latency:  0.1468353271484375
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.12172985076904297
+Processing audios/4.wav
+ASR Result:   | Latency:  0.10156774520874023
+ASR Result:   | Latency:  0.0962822437286377
+ASR Result:   | Latency:  0.18269968032836914
+ASR Result:   | Latency:  0.1777644157409668
+ASR Result:   | Latency:  0.1660006046295166
+ASR Result:   | Latency:  0.15244460105895996
+ASR Result:   | Latency:  0.1428241729736328
+ASR Result:   | Latency:  0.13078618049621582
+ASR Result:   | Latency:  0.10129785537719727
+ASR Result:   | Latency:  0.17269396781921387
+ASR Result:   | Latency:  0.1549515724182129
+ASR Result:   | Latency:  0.13182783126831055
+ASR Result:   | Latency:  0.10688376426696777
+ASR Result:   | Latency:  0.17540836334228516
+ASR Result: i'm not  | Latency:  0.16063547134399414
+ASR Result: i'm not sure  | Latency:  0.1448068618774414
+ASR Result: i'm not sure  | Latency:  0.12586402893066406
+ASR Result: i'm not sure  | Latency:  0.10190463066101074
+ASR Result: i'm not sure where  | Latency:  0.16564226150512695
+ASR Result: i'm not sure where  | Latency:  0.14992690086364746
+ASR Result: i'm not sure where where  | Latency:  0.13575100898742676
+ASR Result: i'm not sure where where'll  | Latency:  0.11533570289611816
+ASR Result: i'm not sure where where'll be  | Latency:  0.1018669605255127
+ASR Result: i'm not sure where where'll be going  | Latency:  0.17610931396484375
+ASR Result: i'm not sure where where'll be going yet  | Latency:  0.16213464736938477
+ASR Result: i'm not sure where where'll be going yet but  | Latency:  0.15255975723266602
+ASR Result: i'm not sure where where'll be going yet but i  | Latency:  0.1325383186340332
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.11689424514770508
+ASR Result: i'm not sure where where'll be going yet but i should  | Latency:  0.1067802906036377
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.18454575538635254
+ASR Result: i'm not sure where where'll be going yet but i should find  | Latency:  0.17500710487365723
+ASR Result: i'm not sure where where'll be going yet but i should find out  | Latency:  0.1601417064666748
+ASR Result: i'm not sure where where'll be going yet but i should find out in  | Latency:  0.1462090015411377
+ASR Result: i'm not sure where where'll be going yet but i should find out in a  | Latency:  0.12907075881958008
+ASR Result: i'm not sure where where'll be going yet but i should find out in a month  | Latency:  0.1095888614654541
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.17099809646606445
+Processing audios/5.wav
+ASR Result:   | Latency:  0.11490488052368164
+ASR Result:   | Latency:  0.13473987579345703
+ASR Result:   | Latency:  0.12570476531982422
+ASR Result: um  | Latency:  0.11828279495239258
+ASR Result: um  | Latency:  0.12312102317810059
+ASR Result: um  | Latency:  0.12019801139831543
+ASR Result: um but  | Latency:  0.12025737762451172
+ASR Result: um but  | Latency:  0.12084150314331055
+ASR Result: um but  | Latency:  0.11603379249572754
+ASR Result: um but like  | Latency:  0.10946893692016602
+ASR Result: um but like  | Latency:  0.09681367874145508
+ASR Result: um but like  | Latency:  0.18196463584899902
+ASR Result: um but like  | Latency:  0.17414593696594238
+ASR Result: um but like next  | Latency:  0.17038655281066895
+ASR Result: um but like next quar  | Latency:  0.16759061813354492
+ASR Result: um but like next quarter  | Latency:  0.16558575630187988
+ASR Result: um but like next quarter i'm  | Latency:  0.15609216690063477
+ASR Result: um but like next quarter i'm going to be  | Latency:  0.15639710426330566
+ASR Result: um but like next quarter i'm going to be taking  | Latency:  0.16300320625305176
+ASR Result: um but like next quarter i'm going to be taking  | Latency:  0.15419650077819824
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.14670085906982422
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.15214920043945312
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.16666626930236816
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.16772913932800293
+ASR Result: um but like next quarter i'm going to be taking um  | Latency:  0.16781091690063477
+ASR Result: um but like next quarter i'm going to be taking um gay  | Latency:  0.1769402027130127
+ASR Result: um but like next quarter i'm going to be taking um gay b  | Latency:  0.178084135055542
+ASR Result: um but like next quarter i'm going to be taking um gay bisex  | Latency:  0.17294526100158691
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual  | Latency:  0.1762537956237793
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual  | Latency:  0.1729753017425537
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesb  | Latency:  0.1786642074584961
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.1682126522064209
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.16805577278137207
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.16364264488220215
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.162567138671875
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.15944552421569824
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian  | Latency:  0.14901447296142578
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couple  | Latency:  0.14140677452087402
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples  | Latency:  0.14128971099853516
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples  | Latency:  0.15210843086242676
+ASR Result: um but like next quarter i'm going to be taking um gay bisexual lesbian couples or

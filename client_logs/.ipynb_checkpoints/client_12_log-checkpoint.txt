@@ -1,0 +1,19 @@
+Processing audios/20.wav
+Error processing file audios/20.wav: [Errno 2] No such file or directory: 'audios/20.wav'
+Connection closed
+Traceback (most recent call last):
+  File "/mnt/storage/longmai/v/asr/client.py", line 76, in <module>
+    asyncio.run(main())
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/mnt/storage/longmai/v/asr/client.py", line 73, in main
+    print("Avg latency:", sum(all_latency)/len(all_latency))
+                          ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+ZeroDivisionError: division by zero

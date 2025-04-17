@@ -1,0 +1,18 @@
+Processing audios/8.wav
+Error processing file audios/8.wav: [Errno 111] Connect call failed ('127.0.0.1', 8988)
+Traceback (most recent call last):
+  File "/mnt/storage/longmai/v/asr/client.py", line 62, in <module>
+    asyncio.run(main())
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/runners.py", line 190, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/longmai/miniconda3/envs/asr/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/mnt/storage/longmai/v/asr/client.py", line 59, in main
+    print("Avg latency:", sum(all_latency)/len(all_latency))
+                          ~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~
+ZeroDivisionError: division by zero

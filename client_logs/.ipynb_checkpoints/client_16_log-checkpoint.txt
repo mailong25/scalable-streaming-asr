@@ -1,0 +1,343 @@
+Processing audios/4.wav
+ASR Result:   | Latency:  0.1016092300415039
+ASR Result:   | Latency:  0.18913030624389648
+ASR Result:   | Latency:  0.19748330116271973
+ASR Result:   | Latency:  0.20056390762329102
+ASR Result: no  | Latency:  0.10413026809692383
+ASR Result: no  | Latency:  0.1047513484954834
+ASR Result: no  | Latency:  0.1117696762084961
+ASR Result: no i  | Latency:  0.11140298843383789
+ASR Result: no i don't  | Latency:  0.12907814979553223
+ASR Result: no i don't  | Latency:  0.14716339111328125
+ASR Result: no i don't mean  | Latency:  0.15774893760681152
+ASR Result: no i don't mean  | Latency:  0.16434383392333984
+ASR Result: no i don't mean  | Latency:  0.1664140224456787
+ASR Result: no i don't mean  | Latency:  0.18421244621276855
+ASR Result: no i don't mean  | Latency:  0.18693304061889648
+ASR Result: no i don't mean i  | Latency:  0.2031247615814209
+ASR Result: no i don't mean i  | Latency:  0.10784602165222168
+ASR Result: no i don't mean i  | Latency:  0.11646604537963867
+ASR Result: no i don't mean i  | Latency:  0.11968016624450684
+ASR Result: no i don't mean i will  | Latency:  0.12876558303833008
+ASR Result: no i don't mean i will drink  | Latency:  0.12413859367370605
+ASR Result: no i don't mean i will drink like  | Latency:  0.11856937408447266
+ASR Result: no i don't mean i will drink like one or  | Latency:  0.12078070640563965
+ASR Result: no i don't mean i will drink like one or two  | Latency:  0.11213946342468262
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.11783814430236816
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.11635732650756836
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.1152956485748291
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.12278389930725098
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.11277627944946289
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.12037229537963867
+ASR Result: no i don't mean i will drink like one or two drinks you  | Latency:  0.11309218406677246
+ASR Result: no i don't mean i will drink like one or two drinks you don't  | Latency:  0.12040138244628906
+ASR Result: no i don't mean i will drink like one or two drinks you don't us  | Latency:  0.1242222785949707
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.12522315979003906
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.13562464714050293
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.1444873809814453
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.15885543823242188
+Avg latency: 0.13609663860217944
+Processing audios/6.wav
+ASR Result:   | Latency:  0.2146439552307129
+ASR Result:   | Latency:  0.11067056655883789
+ASR Result:   | Latency:  0.12894535064697266
+ASR Result: yeah  | Latency:  0.5444560050964355
+ASR Result: yeah that's  | Latency:  0.4821786880493164
+ASR Result: yeah that's  | Latency:  0.42287302017211914
+ASR Result: yeah that's it's  | Latency:  0.3618967533111572
+ASR Result: yeah that's it's  | Latency:  0.2753169536590576
+ASR Result: yeah that's it's where  | Latency:  0.19126677513122559
+ASR Result: yeah that's it's where  | Latency:  0.20803213119506836
+ASR Result: yeah that's it's where kind  | Latency:  0.13585448265075684
+ASR Result: yeah that's it's where kind of  | Latency:  0.15142273902893066
+ASR Result: yeah that's it's where kind of  | Latency:  0.17731618881225586
+ASR Result: yeah that's it's where kind of really  | Latency:  0.18497133255004883
+ASR Result: yeah that's it's where kind of really an ad  | Latency:  0.19197535514831543
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.18914365768432617
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.18752193450927734
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.20478582382202148
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.11138510704040527
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.10651350021362305
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.18690872192382812
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.17350125312805176
+ASR Result: yeah that's it's where kind of really an adult plot i  | Latency:  0.1763908863067627
+ASR Result: yeah that's it's where kind of really an adult plot i would say  | Latency:  0.16481471061706543
+ASR Result: yeah that's it's where kind of really an adult plot i would say it  | Latency:  0.18120479583740234
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.18677830696105957
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.18893647193908691
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.1947925090789795
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.09078097343444824
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's  | Latency:  0.10104012489318848
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot  | Latency:  0.11883974075317383
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at  | Latency:  0.1536271572113037
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.16768360137939453
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.19320130348205566
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.22051668167114258
+Avg latency: 0.16827448871400622
+Processing audios/8.wav
+ASR Result:   | Latency:  0.1178743839263916
+ASR Result:   | Latency:  0.11890745162963867
+ASR Result:   | Latency:  0.14115667343139648
+ASR Result: yeah  | Latency:  0.17651605606079102
+ASR Result: yeah  | Latency:  0.2062699794769287
+ASR Result: yeah that  | Latency:  0.1198873519897461
+ASR Result: yeah that i mean  | Latency:  0.13161373138427734
+ASR Result: yeah that i mean  | Latency:  0.17525482177734375
+ASR Result: yeah that i mean  | Latency:  0.19256234169006348
+ASR Result: yeah that i mean  | Latency:  0.24369382858276367
+ASR Result: yeah that i mean that  | Latency:  0.14411139488220215
+ASR Result: yeah that i mean that  | Latency:  0.1604142189025879
+ASR Result: yeah that i mean that you have  | Latency:  0.18126153945922852
+ASR Result: yeah that i mean that you have to  | Latency:  0.1938161849975586
+ASR Result: yeah that i mean that you have to  | Latency:  0.20957398414611816
+ASR Result: yeah that i mean that you have to really  | Latency:  0.11052608489990234
+ASR Result: yeah that i mean that you have to really put  | Latency:  0.136521577835083
+ASR Result: yeah that i mean that you have to really put  | Latency:  0.16300177574157715
+ASR Result: yeah that i mean that you have to really put in a  | Latency:  0.19350552558898926
+ASR Result: yeah that i mean that you have to really put in a lot of  | Latency:  0.21139001846313477
+ASR Result: yeah that i mean that you have to really put in a lot of time  | Latency:  0.11883902549743652
+ASR Result: yeah that i mean that you have to really put in a lot of time and you  | Latency:  0.14162826538085938
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to  | Latency:  0.1644272804260254
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a  | Latency:  0.21756196022033691
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of  | Latency:  0.11224889755249023
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of  | Latency:  0.12851476669311523
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience  | Latency:  0.14850997924804688
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience  | Latency:  0.1719064712524414
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get  | Latency:  0.19000577926635742
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get luck  | Latency:  0.21221208572387695
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky  | Latency:  0.11738967895507812
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and  | Latency:  0.13690400123596191
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and  | Latency:  0.15091705322265625
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and  | Latency:  0.16853666305541992
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and  | Latency:  0.1776723861694336
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and  | Latency:  0.20207905769348145
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's  | Latency:  0.10275936126708984
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's  | Latency:  0.10878515243530273
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean  | Latency:  0.12430000305175781
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean jour  | Latency:  0.13544559478759766
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalis  | Latency:  0.14688467979431152
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism  | Latency:  0.15533804893493652
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole  | Latency:  0.16261625289916992
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field  | Latency:  0.17920565605163574
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field  | Latency:  0.206878662109375
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like  | Latency:  0.11642193794250488
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that  | Latency:  0.13696551322937012
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you  | Latency:  0.15955495834350586
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta  | Latency:  0.17766594886779785
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have  | Latency:  0.20582318305969238
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connection  | Latency:  0.11039090156555176
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connections  | Latency:  0.12093925476074219
+ASR Result: yeah that i mean that you have to really put in a lot of time and you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connections  | Latency:  0.13800525665283203
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.16141653060913086
+Avg latency: 0.1639077171446785
+Processing audios/2.wav
+ASR Result:   | Latency:  0.21928906440734863
+ASR Result:   | Latency:  0.1434638500213623
+ASR Result:   | Latency:  0.18078255653381348
+ASR Result:   | Latency:  0.21457147598266602
+ASR Result: are you  | Latency:  0.16144299507141113
+ASR Result: are you  | Latency:  0.1847677230834961
+ASR Result: are you  | Latency:  0.23032903671264648
+ASR Result: are you so  | Latency:  0.15228486061096191
+ASR Result: are you so many  | Latency:  0.1786975860595703
+ASR Result: are you so many people  | Latency:  0.21592974662780762
+ASR Result: are you so many people i  | Latency:  0.22545099258422852
+ASR Result: are you so many people i talk  | Latency:  0.5321345329284668
+ASR Result: are you so many people i talk to  | Latency:  0.5412197113037109
+ASR Result: are you so many people i talk to like  | Latency:  0.5440781116485596
+ASR Result: are you so many people i talk to like almost  | Latency:  0.47742319107055664
+ASR Result: are you so many people i talk to like almost every  | Latency:  0.4081106185913086
+ASR Result: are you so many people i talk to like almost everyone  | Latency:  0.3275797367095947
+ASR Result: are you so many people i talk to like almost everyone  | Latency:  0.25336432456970215
+ASR Result: are you so many people i talk to like almost everyone minne  | Latency:  0.1760725975036621
+ASR Result: are you so many people i talk to like almost everyone minneapoli  | Latency:  0.18349909782409668
+ASR Result: are you so many people i talk to like almost everyone minneapolis  | Latency:  0.19512271881103516
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've  | Latency:  0.19506120681762695
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to  | Latency:  0.10609197616577148
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like  | Latency:  0.1216590404510498
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are  | Latency:  0.1383495330810547
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.14105939865112305
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.15120148658752441
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.15400123596191406
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.1475811004638672
+Avg latency: 0.17776123785203504
+Processing audios/5.wav
+ASR Result:   | Latency:  0.22105169296264648
+ASR Result:   | Latency:  0.1549830436706543
+ASR Result:   | Latency:  0.17100977897644043
+ASR Result: i know  | Latency:  0.20772671699523926
+ASR Result: i know i have  | Latency:  0.1352074146270752
+ASR Result: i know i have a  | Latency:  0.16242456436157227
+ASR Result: i know i have a friend  | Latency:  0.1951749324798584
+ASR Result: i know i have a friend who  | Latency:  0.216949462890625
+ASR Result: i know i have a friend who  | Latency:  0.13426589965820312
+ASR Result: i know i have a friend who who  | Latency:  0.16417646408081055
+ASR Result: i know i have a friend who who lives  | Latency:  0.23822522163391113
+ASR Result: i know i have a friend who who lives in  | Latency:  0.17429876327514648
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.22041821479797363
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.15505599975585938
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.18944501876831055
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.22668814659118652
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.1574265956878662
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.2106337547302246
+ASR Result: i know i have a friend who who lives in michigan up until  | Latency:  0.13686919212341309
+ASR Result: i know i have a friend who who lives in michigan up until she  | Latency:  0.16371941566467285
+ASR Result: i know i have a friend who who lives in michigan up until she was  | Latency:  0.19352102279663086
+ASR Result: i know i have a friend who who lives in michigan up until she was in  | Latency:  0.23958134651184082
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.15801501274108887
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.23787188529968262
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.16939091682434082
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.23460078239440918
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.14251065254211426
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.19098877906799316
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.23259353637695312
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.16848206520080566
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.21460199356079102
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.13002753257751465
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.18386363983154297
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she  | Latency:  0.24706220626831055
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved  | Latency:  0.19120025634765625
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it  | Latency:  0.22741031646728516
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it there  | Latency:  0.14901947975158691
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.1978914737701416
+Avg latency: 0.1797791453840819
+Processing audios/0.wav
+ASR Result:   | Latency:  0.19298863410949707
+ASR Result:   | Latency:  0.21680116653442383
+ASR Result:   | Latency:  0.12836098670959473
+ASR Result: well  | Latency:  0.1386094093322754
+ASR Result: well they laid  | Latency:  0.16400551795959473
+ASR Result: well they laid  | Latency:  0.18682408332824707
+ASR Result: well they laid off  | Latency:  0.20337367057800293
+ASR Result: well they laid off nur  | Latency:  0.1124873161315918
+ASR Result: well they laid off nurses  | Latency:  0.1308143138885498
+ASR Result: well they laid off nurses is  | Latency:  0.1638164520263672
+ASR Result: well they laid off nurses is what they  | Latency:  0.17223858833312988
+ASR Result: well they laid off nurses is what they did  | Latency:  0.18628573417663574
+ASR Result: well they laid off nurses is what they did  | Latency:  0.19971132278442383
+ASR Result: well they laid off nurses is what they did  | Latency:  0.20327448844909668
+ASR Result: well they laid off nurses is what they did  | Latency:  0.11153292655944824
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.11777186393737793
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.13713312149047852
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.14937853813171387
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.14708161354064941
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.1649489402770996
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.19074058532714844
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.2105703353881836
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.13020610809326172
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.15602850914001465
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18519020080566406
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.2135000228881836
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.12405824661254883
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.17343354225158691
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.2449507713317871
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.14149212837219238
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.17480707168579102
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.2300097942352295
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.14269566535949707
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.1920177936553955
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.2181847095489502
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.13509774208068848
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.17798542976379395
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.22417569160461426
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.1475982666015625
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.19335007667541504
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.21901583671569824
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.16007328033447266
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.20541810989379883
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.12980341911315918
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.19468092918395996
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.6361114978790283
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.575066328048706
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.5176453590393066
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.4495236873626709
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.3719594478607178
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.2852010726928711
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.20410847663879395
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.11808013916015625
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.1512463092803955
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.18472599983215332
+Sending EOS
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.21119904518127441
+ASR Result: END_OF_STREAM  | Latency:  0.13676881790161133
+Avg latency: 0.18512613677978515
+Processing audios/6.wav
+ASR Result:   | Latency:  0.10894560813903809
+ASR Result:   | Latency:  0.13945293426513672
+ASR Result:   | Latency:  0.1620485782623291
+ASR Result: yeah  | Latency:  0.17961645126342773
+ASR Result: yeah that's  | Latency:  0.19288992881774902
+ASR Result: yeah that's  | Latency:  0.21222734451293945
+ASR Result: yeah that's it's  | Latency:  0.12913012504577637
+ASR Result: yeah that's it's  | Latency:  0.1428537368774414
+ASR Result: yeah that's it's where  | Latency:  0.1584165096282959
+ASR Result: yeah that's it's where  | Latency:  0.1817178726196289
+ASR Result: yeah that's it's where kind  | Latency:  0.18340396881103516
+ASR Result: yeah that's it's where kind of  | Latency:  0.19620227813720703
+ASR Result: yeah that's it's where kind of  | Latency:  0.16393041610717773
+ASR Result: yeah that's it's where kind of really  | Latency:  0.17520475387573242
+ASR Result: yeah that's it's where kind of really an ad  | Latency:  0.1866295337677002
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.21172618865966797
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.1177361011505127
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.1274428367614746
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.14967823028564453
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.17646360397338867
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.18336081504821777
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.19541263580322266
+ASR Result: yeah that's it's where kind of really an adult plot i  | Latency:  0.11539173126220703
+ASR Result: yeah that's it's where kind of really an adult plot i would say  | Latency:  0.1402907371520996
+ASR Result: yeah that's it's where kind of really an adult plot i would say it  | Latency:  0.16247987747192383
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.18631291389465332
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.2214350700378418
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.15418386459350586
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.18251490592956543
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's  | Latency:  0.20177268981933594
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot  | Latency:  0.11667299270629883
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at  | Latency:  0.15175247192382812
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.16634774208068848
+Sending EOS
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.23273944854736328
+ASR Result: END_OF_STREAM  | Latency:  0.15776324272155762
+Avg latency: 0.18296730643824527
+Processing audios/1.wav
+ASR Result:   | Latency:  0.22107791900634766
+ASR Result:   | Latency:  0.12234854698181152
+ASR Result:   | Latency:  0.14494800567626953
+ASR Result: that  | Latency:  0.17552924156188965
+ASR Result: that's nice  | Latency:  0.21216392517089844
+ASR Result: that's nice  | Latency:  0.21268606185913086
+ASR Result: that's nice  | Latency:  0.11790347099304199
+ASR Result: that's nice  | Latency:  0.1520371437072754
+ASR Result: that's nice  | Latency:  0.18320751190185547
+ASR Result: that's nice  | Latency:  0.19876813888549805
+ASR Result: that's nice  | Latency:  0.1159975528717041
+ASR Result: that's nice  | Latency:  0.13258028030395508
+ASR Result: that's nice yeah  | Latency:  0.16461515426635742
+ASR Result: that's nice yeah i  | Latency:  0.1859722137451172
+ASR Result: that's nice yeah i've been  | Latency:  0.20670223236083984
+ASR Result: that's nice yeah i've been  | Latency:  0.11859703063964844
+ASR Result: that's nice yeah i've been to  | Latency:  0.14830422401428223
+ASR Result: that's nice yeah i've been to okla  | Latency:  0.18748712539672852
+ASR Result: that's nice yeah i've been to oklahoma  | Latency:  0.2016916275024414
+ASR Result: that's nice yeah i've been to oklahoma  | Latency:  0.10843300819396973
+ASR Result: that's nice yeah i've been to oklahoma city  | Latency:  0.15040278434753418
+ASR Result: that's nice yeah i've been to oklahoma city  | Latency:  0.18519902229309082
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.20595574378967285
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.1266770362854004
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.1457960605621338
+ASR Result: that's nice yeah i've been to oklahoma city before  | Latency:  0.17914462089538574
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.23480868339538574
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.16370654106140137
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.19699311256408691
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.2267763614654541
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.14777684211730957
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.19742846488952637
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.11790847778320312
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.19043445587158203
+ASR Result: that's nice yeah i've been to oklahoma city before um  | Latency:  0.22214937210083008
+ASR Result: that's nice yeah i've been to oklahoma city before um yeah

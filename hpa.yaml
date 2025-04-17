@@ -1,0 +1,20 @@
+apiVersion: keda.sh/v1alpha1  # KEDA API version
+kind: ScaledObject  # Specifies the kind of KEDA object
+metadata:
+  name: asr-scaler  # Name of the ScaledObject
+  namespace: default  # Namespace where the ScaledObject resides
+spec:
+  scaleTargetRef:
+    name: asr-deployment  # Name of the Kubernetes Deployment to scale
+  minReplicaCount: 1  # Minimum number of replicas to maintain
+  maxReplicaCount: 6  # Maximum number of replicas allowed
+  cooldownPeriod: 30  # (Optional) Time in seconds to wait before scaling down after the last trigger (1 minutes)
+  pollingInterval: 10  # Frequency (in seconds) to check the trigger metric (30 seconds)
+  triggers:
+  - type: prometheus  # Type of scaler; using Prometheus as the trigger source
+    metadata:
+      serverAddress: http://prometheus-kube-prometheus-prometheus.default.svc:9090  # Prometheus server URL
+      metricName: response_latency_seconds  # Name for the metric used by KEDA (for internal reference)
+      threshold: "40"  # Threshold value that will trigger scaling if exceeded (greater than 40 reqs per minute)
+      query: |
+         sum(rate(response_latency_seconds_count[1m])) # number of requests per minute

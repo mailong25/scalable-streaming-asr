@@ -1,30 +1,34 @@
-apiVersion: apps/v1
-kind: Deployment
+apiVersion: apps/v1         # Specifies the API version for the Deployment object
+kind: Deployment            # Declares the kind of Kubernetes object; here, it's a Deployment
 metadata:
-  name: asr-deployment
+  name: asr-deployment      # Name of the Deployment object
+
 spec:
-  replicas: 2
+  replicas: 1               # Number of pod replicas to run (desired state)
   selector:
     matchLabels:
-      app: asr
-  template:
+      app: asr              # Selector to match Pods with the label 'app: asr'
+  template:                 # Template for creating the Pod(s)
     metadata:
       labels:
-        app: asr
+        app: asr            # Label assigned to the Pod; must match selector above
+      annotations:
+        prometheus.io/scrape: "true"    # Prometheus annotation to enable scraping
+        prometheus.io/path: "/metrics"  # Path to scrape metrics from
+        prometheus.io/port: "5000"      # Port on which metrics are exposed
     spec:
       containers:
-      - name: asr
-        image: mailong25/asr-server:latest
+      - name: asr                         # Name of the container
+        image: mailong25/asr-server:latest  # Docker image to run inside the container
         ports:
-        - containerPort: 5000
+        - containerPort: 5000             # Port that the container listens on
         resources:
           limits:
-            nvidia.com/gpu: 1  # Request one GPU
-        readinessProbe:
+            nvidia.com/gpu: 1             # Limit the container to use 1 GPU
+        readinessProbe:                   # Probe to check if the app is ready to serve traffic
           httpGet:
-            path: /health
-            port: 5000
-          initialDelaySeconds: 5
-          periodSeconds: 20
-          timeoutSeconds: 5
-          failureThreshold: 3
+            path: /health                 # Endpoint to check for readiness
+            port: 5000                    # Port to access the readiness endpoint
+          periodSeconds: 30              # How often to perform the probe (in seconds)
+          failureThreshold: 10           # Number of consecutive failures before marking as unready
+          initialDelaySeconds: 20

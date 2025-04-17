@@ -1,18 +1,20 @@
-from fastapi import FastAPI, WebSocket, WebSocketDisconnect
+from fastapi import FastAPI, WebSocket, WebSocketDisconnect, Response
 import asyncio
 import random
 import json
 from collections import deque, defaultdict
 import time
 from asr import ASR
-from config import BATCHING_SIZE, BATCHING_TIMEOUT_MS, EOS_STR, EOS_BYTE, ASR_MODEL
+from config import BATCHING_SIZE, BATCHING_TIMEOUT_MS, EOS_STR, EOS_BYTE, ASR_MODEL, REQ_CHUNK_SIZE_MS
+from prometheus_client import Histogram, generate_latest, CONTENT_TYPE_LATEST
 
 #--------------------------------------#
 app = FastAPI()
 active_clients = {}
 expired_sessions = set()
 message_queue = defaultdict(deque)
-model = ASR(model_name = ASR_MODEL, bs = BATCHING_SIZE)
+model = ASR(model_name = ASR_MODEL, chunk_size_ms = REQ_CHUNK_SIZE_MS, bs = BATCHING_SIZE)
+RESPONSE_LATENCY = Histogram("response_latency_seconds", "Latency of response")
 #--------------------------------------#
 
 async def inference(batch):
@@ -50,20 +52,26 @@ async def process_message_queue():
         
             if session_q:
                 batch.append(session_q.popleft())
-            
-            if len(batch) > BATCHING_SIZE or time.time() - batch_start_time > BATCHING_TIMEOUT_MS or idx == q_len - 1:
+                
+            if len(batch) >= BATCHING_SIZE or time.time() - batch_start_time > BATCHING_TIMEOUT_MS or idx == q_len - 1:
                 if batch:
                     transcriptions = await inference(batch)
                     for i, transcription in enumerate(transcriptions):
                         session_id = batch[i]['session_id']
                         if session_id in active_clients:
-                            await active_clients[session_id].send_text(transcription)
+                            try:
+                                await active_clients[session_id].send_text(transcription)
+                            except:
+                                print("Error sending back message. Maybe connection already closed!")
+                        
+                        #log latency for autoscaling
+                        RESPONSE_LATENCY.observe(time.time() - batch[i]['start_time']) # Log latency
                 
                 batch = []
                 batch_start_time = time.time()
         
         clean_up_session()
-        await asyncio.sleep(0.02)
+        await asyncio.sleep(0.01)
 
 @app.websocket("/ws")
 async def websocket_endpoint(websocket: WebSocket):
@@ -73,7 +81,7 @@ async def websocket_endpoint(websocket: WebSocket):
     print(f"Client connected with session ID: {session_id}")
     try:
         async for chunk_data in websocket.iter_bytes():
-            message_queue[session_id].append({'session_id': session_id, 'data': chunk_data})
+            message_queue[session_id].append({'session_id': session_id, 'data': chunk_data, 'start_time': time.time()})
     except WebSocketDisconnect:
         print(f"Client disconnected: {session_id}")
     finally:
@@ -88,6 +96,10 @@ async def startup_event():
 @app.get("/health")
 async def health_check():
     return {"status": "ok"}
+
+@app.get("/metrics")
+async def metrics():
+    return Response(content=generate_latest(), media_type=CONTENT_TYPE_LATEST)
 
 @app.get("/")
 async def root():

@@ -1,0 +1,715 @@
+Processing audios/0.wav
+ASR Result:   | Latency:  0.08591413497924805
+ASR Result:   | Latency:  0.16884112358093262
+ASR Result:   | Latency:  0.17797064781188965
+ASR Result: well  | Latency:  0.16181421279907227
+ASR Result: well they laid  | Latency:  0.13873529434204102
+ASR Result: well they laid  | Latency:  0.1301710605621338
+ASR Result: well they laid off  | Latency:  0.12207627296447754
+ASR Result: well they laid off nur  | Latency:  0.10908150672912598
+ASR Result: well they laid off nurses  | Latency:  0.08463835716247559
+ASR Result: well they laid off nurses is  | Latency:  0.15978765487670898
+ASR Result: well they laid off nurses is what they  | Latency:  0.14531660079956055
+ASR Result: well they laid off nurses is what they did  | Latency:  0.1240084171295166
+ASR Result: well they laid off nurses is what they did  | Latency:  0.11411309242248535
+ASR Result: well they laid off nurses is what they did  | Latency:  0.1026618480682373
+ASR Result: well they laid off nurses is what they did  | Latency:  0.08304882049560547
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.169158935546875
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.1452491283416748
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.12666034698486328
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.11966323852539062
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.09726095199584961
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.0870664119720459
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.1870861053466797
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18401479721069336
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18048429489135742
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.17708849906921387
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.1703956127166748
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.16118454933166504
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.17093920707702637
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.15320539474487305
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.17504310607910156
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.17440438270568848
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.1669025421142578
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.17557621002197266
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.16047954559326172
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.162855863571167
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.1643528938293457
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.15259981155395508
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.1498410701751709
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.16278672218322754
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.151900053024292
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.16029143333435059
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.16732382774353027
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.1760399341583252
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.18653607368469238
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.19408583641052246
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.20682477951049805
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.1107325553894043
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.1142725944519043
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.11696100234985352
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.5780668258666992
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.4853556156158447
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.40860486030578613
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.31137990951538086
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.23766183853149414
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.10819149017333984
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.09437179565429688
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.19163870811462402
+Avg latency: 0.16987224210772597
+Processing audios/4.wav
+ASR Result:   | Latency:  0.09406375885009766
+ASR Result:   | Latency:  0.10525798797607422
+ASR Result:   | Latency:  0.11204218864440918
+ASR Result:   | Latency:  0.12438106536865234
+ASR Result: no  | Latency:  0.13204503059387207
+ASR Result: no  | Latency:  0.14416098594665527
+ASR Result: no  | Latency:  0.15638470649719238
+ASR Result: no i  | Latency:  0.17133045196533203
+ASR Result: no i don't  | Latency:  0.18123269081115723
+ASR Result: no i don't  | Latency:  0.19014596939086914
+ASR Result: no i don't mean  | Latency:  0.21102571487426758
+ASR Result: no i don't mean  | Latency:  0.19986915588378906
+ASR Result: no i don't mean  | Latency:  0.11475801467895508
+ASR Result: no i don't mean  | Latency:  0.1194145679473877
+ASR Result: no i don't mean  | Latency:  0.1521308422088623
+ASR Result: no i don't mean i  | Latency:  0.1618204116821289
+ASR Result: no i don't mean i  | Latency:  0.17068696022033691
+ASR Result: no i don't mean i  | Latency:  0.17923355102539062
+ASR Result: no i don't mean i  | Latency:  0.18136072158813477
+ASR Result: no i don't mean i will  | Latency:  0.20704436302185059
+ASR Result: no i don't mean i will drink  | Latency:  0.19160938262939453
+ASR Result: no i don't mean i will drink like  | Latency:  0.17766475677490234
+ASR Result: no i don't mean i will drink like one or  | Latency:  0.18175363540649414
+ASR Result: no i don't mean i will drink like one or two  | Latency:  0.1813797950744629
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.182159423828125
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.18830609321594238
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.19940972328186035
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.10102224349975586
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.10146450996398926
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.18971467018127441
+ASR Result: no i don't mean i will drink like one or two drinks you  | Latency:  0.19078946113586426
+ASR Result: no i don't mean i will drink like one or two drinks you don't  | Latency:  0.20771455764770508
+ASR Result: no i don't mean i will drink like one or two drinks you don't us  | Latency:  0.19686341285705566
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.1098477840423584
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.10969281196594238
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.11946344375610352
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.1276109218597412
+Avg latency: 0.1653997187918805
+Processing audios/0.wav
+ASR Result:   | Latency:  0.19783353805541992
+ASR Result:   | Latency:  0.10144305229187012
+ASR Result:   | Latency:  0.10861539840698242
+ASR Result: well  | Latency:  0.10972905158996582
+ASR Result: well they laid  | Latency:  0.12068009376525879
+ASR Result: well they laid  | Latency:  0.11659693717956543
+ASR Result: well they laid off  | Latency:  0.13021349906921387
+ASR Result: well they laid off nur  | Latency:  0.13776397705078125
+ASR Result: well they laid off nurses  | Latency:  0.15847277641296387
+ASR Result: well they laid off nurses is  | Latency:  0.16476798057556152
+ASR Result: well they laid off nurses is what they  | Latency:  0.15999674797058105
+ASR Result: well they laid off nurses is what they did  | Latency:  0.1799917221069336
+ASR Result: well they laid off nurses is what they did  | Latency:  0.18506741523742676
+ASR Result: well they laid off nurses is what they did  | Latency:  0.20139050483703613
+ASR Result: well they laid off nurses is what they did  | Latency:  0.10654044151306152
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.10599899291992188
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.10905075073242188
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.11773228645324707
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.11429810523986816
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.10558676719665527
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.10781240463256836
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.1053619384765625
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.11086416244506836
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.11137557029724121
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.11014437675476074
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.09685277938842773
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.19385814666748047
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.198836088180542
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.11025404930114746
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.11702108383178711
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.11106133460998535
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.12333416938781738
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.13368844985961914
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.1402449607849121
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.1510334014892578
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.16226673126220703
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.17743873596191406
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.1868116855621338
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.2017524242401123
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.11659455299377441
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.13942360877990723
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.1583549976348877
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.15910816192626953
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.17194557189941406
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.18047332763671875
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.2023775577545166
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.11712956428527832
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.12159895896911621
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.14258718490600586
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.1385495662689209
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.15994906425476074
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.1760265827178955
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.5778720378875732
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.5055735111236572
+Sending EOS
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.445037841796875
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.3810117244720459
+ASR Result: END_OF_STREAM  | Latency:  0.3091089725494385
+Avg latency: 0.1664376085167689
+Processing audios/5.wav
+ASR Result:   | Latency:  0.15889549255371094
+ASR Result:   | Latency:  0.17605018615722656
+ASR Result:   | Latency:  0.18241190910339355
+ASR Result: i know  | Latency:  0.18308520317077637
+ASR Result: i know i have  | Latency:  0.18610239028930664
+ASR Result: i know i have a  | Latency:  0.19241786003112793
+ASR Result: i know i have a friend  | Latency:  0.20556139945983887
+ASR Result: i know i have a friend who  | Latency:  0.10924577713012695
+ASR Result: i know i have a friend who  | Latency:  0.1307830810546875
+ASR Result: i know i have a friend who who  | Latency:  0.1616213321685791
+ASR Result: i know i have a friend who who lives  | Latency:  0.17606759071350098
+ASR Result: i know i have a friend who who lives in  | Latency:  0.21993041038513184
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.11566329002380371
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.14674687385559082
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.17108440399169922
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.24897313117980957
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.14240217208862305
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.18074893951416016
+ASR Result: i know i have a friend who who lives in michigan up until  | Latency:  0.2229447364807129
+ASR Result: i know i have a friend who who lives in michigan up until she  | Latency:  0.1467888355255127
+ASR Result: i know i have a friend who who lives in michigan up until she was  | Latency:  0.18912720680236816
+ASR Result: i know i have a friend who who lives in michigan up until she was in  | Latency:  0.22835874557495117
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.14340448379516602
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.20756196975708008
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.12233734130859375
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.15106534957885742
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.19298291206359863
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.22170376777648926
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.128068208694458
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.14282846450805664
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.1780383586883545
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.20457696914672852
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.11776280403137207
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she  | Latency:  0.14107370376586914
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved  | Latency:  0.18551278114318848
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it  | Latency:  0.22060871124267578
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it there  | Latency:  0.12938356399536133
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.16278886795043945
+Avg latency: 0.16749623339012187
+Processing audios/2.wav
+ASR Result:   | Latency:  0.10932135581970215
+ASR Result:   | Latency:  0.13614821434020996
+ASR Result:   | Latency:  0.15409255027770996
+ASR Result:   | Latency:  0.1709589958190918
+ASR Result: are you  | Latency:  0.1909949779510498
+ASR Result: are you  | Latency:  0.20533323287963867
+ASR Result: are you  | Latency:  0.11434173583984375
+ASR Result: are you so  | Latency:  0.13039278984069824
+ASR Result: are you so many  | Latency:  0.13818812370300293
+ASR Result: are you so many people  | Latency:  0.16638708114624023
+ASR Result: are you so many people i  | Latency:  0.17036676406860352
+ASR Result: are you so many people i talk  | Latency:  0.17659640312194824
+ASR Result: are you so many people i talk to  | Latency:  0.1875138282775879
+ASR Result: are you so many people i talk to like  | Latency:  0.20187687873840332
+ASR Result: are you so many people i talk to like almost  | Latency:  0.11198878288269043
+ASR Result: are you so many people i talk to like almost every  | Latency:  0.12749195098876953
+ASR Result: are you so many people i talk to like almost everyone  | Latency:  0.12012910842895508
+ASR Result: are you so many people i talk to like almost everyone  | Latency:  0.13726091384887695
+ASR Result: are you so many people i talk to like almost everyone minne  | Latency:  0.16495418548583984
+ASR Result: are you so many people i talk to like almost everyone minneapoli  | Latency:  0.18465733528137207
+ASR Result: are you so many people i talk to like almost everyone minneapolis  | Latency:  0.207566499710083
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've  | Latency:  0.11547970771789551
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to  | Latency:  0.13361835479736328
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like  | Latency:  0.1732771396636963
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are  | Latency:  0.17791533470153809
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.19768691062927246
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.2109968662261963
+ASR Result: are you so many people i talk to like almost everyone minneapolis i've talked to like are in there  | Latency:  0.11380481719970703
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.13155579566955566
+Avg latency: 0.16613616855866317
+Processing audios/7.wav
+ASR Result:   | Latency:  0.12474608421325684
+ASR Result:   | Latency:  0.16235756874084473
+ASR Result:   | Latency:  0.19253206253051758
+ASR Result: yeah  | Latency:  0.23517084121704102
+ASR Result: yeah  | Latency:  0.16617250442504883
+ASR Result: yeah  | Latency:  0.20889616012573242
+ASR Result: yeah that  | Latency:  0.13826465606689453
+ASR Result: yeah that  | Latency:  0.16452383995056152
+ASR Result: yeah that you know  | Latency:  0.1918811798095703
+ASR Result: yeah that you know that's  | Latency:  0.22227096557617188
+ASR Result: yeah that you know that's one  | Latency:  0.5330548286437988
+ASR Result: yeah that you know that's one thing  | Latency:  0.5402970314025879
+ASR Result: yeah that you know that's one thing i  | Latency:  0.5404667854309082
+ASR Result: yeah that you know that's one thing i always  | Latency:  0.48291635513305664
+ASR Result: yeah that you know that's one thing i always  | Latency:  0.4028358459472656
+ASR Result: yeah that you know that's one thing i always that  | Latency:  0.3424365520477295
+ASR Result: yeah that you know that's one thing i always that  | Latency:  0.2565157413482666
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.19686436653137207
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.1659376621246338
+ASR Result: yeah that you know that's one thing i always that it's  | Latency:  0.17904233932495117
+ASR Result: yeah that you know that's one thing i always that it's free  | Latency:  0.1856529712677002
+ASR Result: yeah that you know that's one thing i always that it's free  | Latency:  0.19867610931396484
+ASR Result: yeah that you know that's one thing i always that it's free interesting  | Latency:  0.10862326622009277
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know  | Latency:  0.11719846725463867
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know  | Latency:  0.14002132415771484
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my  | Latency:  0.14286565780639648
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.14243745803833008
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.13376927375793457
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my  | Latency:  0.13424277305603027
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family  | Latency:  0.12557172775268555
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my  | Latency:  0.1312098503112793
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my  | Latency:  0.1605522632598877
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.19019222259521484
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.20390033721923828
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh  | Latency:  0.11835145950317383
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parent  | Latency:  0.1263136863708496
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parents  | Latency:  0.1369917392730713
+ASR Result: yeah that you know that's one thing i always that it's free interesting you know my my family my uh parents and  | Latency:  0.15163969993591309
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.17548203468322754
+Avg latency: 0.17310723905897327
+Processing audios/6.wav
+ASR Result:   | Latency:  0.23950719833374023
+ASR Result:   | Latency:  0.16864705085754395
+ASR Result:   | Latency:  0.21031403541564941
+ASR Result: yeah  | Latency:  0.13575029373168945
+ASR Result: yeah that's  | Latency:  0.16618680953979492
+ASR Result: yeah that's  | Latency:  0.2222590446472168
+ASR Result: yeah that's it's  | Latency:  0.15032553672790527
+ASR Result: yeah that's it's  | Latency:  0.1777794361114502
+ASR Result: yeah that's it's where  | Latency:  0.1959671974182129
+ASR Result: yeah that's it's where  | Latency:  0.11861252784729004
+ASR Result: yeah that's it's where kind  | Latency:  0.17014431953430176
+ASR Result: yeah that's it's where kind of  | Latency:  0.22681403160095215
+ASR Result: yeah that's it's where kind of  | Latency:  0.16588091850280762
+ASR Result: yeah that's it's where kind of really  | Latency:  0.21239542961120605
+ASR Result: yeah that's it's where kind of really an ad  | Latency:  0.1484675407409668
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.2062211036682129
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.12562942504882812
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.16756343841552734
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.21434497833251953
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.14388179779052734
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.1987590789794922
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.1306624412536621
+ASR Result: yeah that's it's where kind of really an adult plot i  | Latency:  0.19630765914916992
+ASR Result: yeah that's it's where kind of really an adult plot i would say  | Latency:  0.13260841369628906
+ASR Result: yeah that's it's where kind of really an adult plot i would say it  | Latency:  0.18237566947937012
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.22511887550354004
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.15496015548706055
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.1920943260192871
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.21750259399414062
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's  | Latency:  0.1525406837463379
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot  | Latency:  0.16392779350280762
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at  | Latency:  0.19268345832824707
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.22538352012634277
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.1449720859527588
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.17984294891357422
+Avg latency: 0.17378422005535804
+Processing audios/4.wav
+ASR Result:   | Latency:  0.21031856536865234
+ASR Result:   | Latency:  0.12586164474487305
+ASR Result:   | Latency:  0.12490725517272949
+ASR Result:   | Latency:  0.1395401954650879
+ASR Result: no  | Latency:  0.14639878273010254
+ASR Result: no  | Latency:  0.15526819229125977
+ASR Result: no  | Latency:  0.15657663345336914
+ASR Result: no i  | Latency:  0.16527223587036133
+ASR Result: no i don't  | Latency:  0.18147540092468262
+ASR Result: no i don't  | Latency:  0.18205547332763672
+ASR Result: no i don't mean  | Latency:  0.19815492630004883
+ASR Result: no i don't mean  | Latency:  0.20168781280517578
+ASR Result: no i don't mean  | Latency:  0.1320188045501709
+ASR Result: no i don't mean  | Latency:  0.14304375648498535
+ASR Result: no i don't mean  | Latency:  0.17078685760498047
+ASR Result: no i don't mean i  | Latency:  0.1957547664642334
+ASR Result: no i don't mean i  | Latency:  0.11881756782531738
+ASR Result: no i don't mean i  | Latency:  0.14069128036499023
+ASR Result: no i don't mean i  | Latency:  0.1675398349761963
+ASR Result: no i don't mean i will  | Latency:  0.2228240966796875
+ASR Result: no i don't mean i will drink  | Latency:  0.1543717384338379
+ASR Result: no i don't mean i will drink like  | Latency:  0.1867232322692871
+ASR Result: no i don't mean i will drink like one or  | Latency:  0.24002885818481445
+ASR Result: no i don't mean i will drink like one or two  | Latency:  0.16275644302368164
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.2030627727508545
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.13416242599487305
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.18080377578735352
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.22470855712890625
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.13053202629089355
+ASR Result: no i don't mean i will drink like one or two drinks  | Latency:  0.16759848594665527
+ASR Result: no i don't mean i will drink like one or two drinks you  | Latency:  0.20826482772827148
+ASR Result: no i don't mean i will drink like one or two drinks you don't  | Latency:  0.13498663902282715
+ASR Result: no i don't mean i will drink like one or two drinks you don't us  | Latency:  0.16091442108154297
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.22984027862548828
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.15272808074951172
+Sending EOS
+ASR Result: no i don't mean i will drink like one or two drinks you don't usually  | Latency:  0.2033545970916748
+ASR Result: END_OF_STREAM  | Latency:  0.1362302303314209
+Avg latency: 0.17335882592708507
+Processing audios/0.wav
+ASR Result:   | Latency:  0.11604762077331543
+ASR Result:   | Latency:  0.13440155982971191
+ASR Result:   | Latency:  0.16847681999206543
+ASR Result: well  | Latency:  0.19815993309020996
+ASR Result: well they laid  | Latency:  0.11087393760681152
+ASR Result: well they laid  | Latency:  0.1492753028869629
+ASR Result: well they laid off  | Latency:  0.1806175708770752
+ASR Result: well they laid off nur  | Latency:  0.20015168190002441
+ASR Result: well they laid off nurses  | Latency:  0.11708450317382812
+ASR Result: well they laid off nurses is  | Latency:  0.14240097999572754
+ASR Result: well they laid off nurses is what they  | Latency:  0.17575883865356445
+ASR Result: well they laid off nurses is what they did  | Latency:  0.19086861610412598
+ASR Result: well they laid off nurses is what they did  | Latency:  0.21653389930725098
+ASR Result: well they laid off nurses is what they did  | Latency:  0.12550950050354004
+ASR Result: well they laid off nurses is what they did  | Latency:  0.13778090476989746
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.16503572463989258
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.18133306503295898
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.2075490951538086
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.12886571884155273
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.14679265022277832
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.15778207778930664
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.18039965629577637
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18557381629943848
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18675446510314941
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.20577621459960938
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.11617827415466309
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.11547660827636719
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.12305951118469238
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.14144349098205566
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.150468111038208
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.1778733730316162
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.18526291847229004
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.19829940795898438
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.1997814178466797
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.12077474594116211
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.15902400016784668
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.15899968147277832
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.19778203964233398
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.22269988059997559
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.14541912078857422
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.1541290283203125
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.17729592323303223
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.2018568515777588
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.12958788871765137
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.1497325897216797
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.22101950645446777
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.144287109375
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.17969703674316406
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.20795750617980957
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.11895394325256348
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.14418625831604004
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.16783356666564941
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.2163996696472168
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.13143610954284668
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.15902090072631836
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.16291451454162598
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.19720029830932617
+Avg latency: 0.17207489421330585
+Processing audios/6.wav
+ASR Result:   | Latency:  0.11635422706604004
+ASR Result:   | Latency:  0.13410043716430664
+ASR Result:   | Latency:  0.16498827934265137
+ASR Result: yeah  | Latency:  0.18573665618896484
+ASR Result: yeah that's  | Latency:  0.2167344093322754
+ASR Result: yeah that's  | Latency:  0.22962236404418945
+ASR Result: yeah that's it's  | Latency:  0.1365208625793457
+ASR Result: yeah that's it's  | Latency:  0.1596851348876953
+ASR Result: yeah that's it's where  | Latency:  0.18679380416870117
+ASR Result: yeah that's it's where  | Latency:  0.19991278648376465
+ASR Result: yeah that's it's where kind  | Latency:  0.23155570030212402
+ASR Result: yeah that's it's where kind of  | Latency:  0.15582537651062012
+ASR Result: yeah that's it's where kind of  | Latency:  0.1817171573638916
+ASR Result: yeah that's it's where kind of really  | Latency:  0.20171070098876953
+ASR Result: yeah that's it's where kind of really an ad  | Latency:  0.11773467063903809
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.1511223316192627
+ASR Result: yeah that's it's where kind of really an adult  | Latency:  0.1991887092590332
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.12337827682495117
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.16326904296875
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.18654608726501465
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.23124098777770996
+ASR Result: yeah that's it's where kind of really an adult plot  | Latency:  0.17209148406982422
+ASR Result: yeah that's it's where kind of really an adult plot i  | Latency:  0.21145081520080566
+ASR Result: yeah that's it's where kind of really an adult plot i would say  | Latency:  0.13491153717041016
+ASR Result: yeah that's it's where kind of really an adult plot i would say it  | Latency:  0.1745281219482422
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.22246384620666504
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not  | Latency:  0.14244651794433594
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.1866464614868164
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid  | Latency:  0.23632407188415527
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's  | Latency:  0.1567070484161377
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot  | Latency:  0.2199082374572754
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at  | Latency:  0.14683175086975098
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.25751829147338867
+Sending EOS
+ASR Result: yeah that's it's where kind of really an adult plot i would say it's not kid's plot at all  | Latency:  0.20146417617797852
+ASR Result: END_OF_STREAM  | Latency:  0.13469362258911133
+Avg latency: 0.17266658705940155
+Processing audios/0.wav
+ASR Result:   | Latency:  0.09470462799072266
+ASR Result:   | Latency:  0.0978093147277832
+ASR Result:   | Latency:  0.1047968864440918
+ASR Result: well  | Latency:  0.10947966575622559
+ASR Result: well they laid  | Latency:  0.1301407814025879
+ASR Result: well they laid  | Latency:  0.12975382804870605
+ASR Result: well they laid off  | Latency:  0.13772201538085938
+ASR Result: well they laid off nur  | Latency:  0.17052888870239258
+ASR Result: well they laid off nurses  | Latency:  0.17421245574951172
+ASR Result: well they laid off nurses is  | Latency:  0.21077561378479004
+ASR Result: well they laid off nurses is what they  | Latency:  0.21869850158691406
+ASR Result: well they laid off nurses is what they did  | Latency:  0.13771796226501465
+ASR Result: well they laid off nurses is what they did  | Latency:  0.15902066230773926
+ASR Result: well they laid off nurses is what they did  | Latency:  0.17307424545288086
+ASR Result: well they laid off nurses is what they did  | Latency:  0.1976912021636963
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.11300516128540039
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.1628108024597168
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.18310856819152832
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.2151780128479004
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.12766194343566895
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.16152143478393555
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.1942141056060791
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.23766684532165527
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.15933775901794434
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.18376469612121582
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.2254784107208252
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.12552189826965332
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.16071176528930664
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.19007349014282227
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.23182034492492676
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.14000988006591797
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.1713886260986328
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.19680213928222656
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.11032223701477051
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.14210796356201172
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.16784334182739258
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.1844489574432373
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.21143460273742676
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.11686921119689941
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.16207194328308105
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.19672703742980957
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.22782111167907715
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.13907504081726074
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.18132376670837402
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.20667028427124023
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.11301922798156738
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.14979958534240723
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.17907023429870605
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.1888566017150879
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.19589805603027344
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.10957598686218262
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.13137388229370117
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.1541893482208252
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.16747069358825684
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.1623518466949463
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.1633765697479248
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.18005108833312988
+Avg latency: 0.1716748625663534
+Processing audios/8.wav
+ASR Result:   | Latency:  0.13753056526184082
+ASR Result:   | Latency:  0.17472267150878906
+ASR Result:   | Latency:  0.2092137336730957
+ASR Result: yeah  | Latency:  0.14129233360290527
+ASR Result: yeah  | Latency:  0.17776870727539062
+ASR Result: yeah that's  | Latency:  0.24846887588500977
+ASR Result: yeah that's i mean  | Latency:  0.19249796867370605
+ASR Result: yeah that's i mean  | Latency:  0.23750782012939453
+ASR Result: yeah that's i mean  | Latency:  0.15987801551818848
+ASR Result: yeah that's i mean  | Latency:  0.20185089111328125
+ASR Result: yeah that's i mean that  | Latency:  0.13808608055114746
+ASR Result: yeah that's i mean that's  | Latency:  0.1966536045074463
+ASR Result: yeah that's i mean that's you have  | Latency:  0.13388347625732422
+ASR Result: yeah that's i mean that's you have to  | Latency:  0.1612992286682129
+ASR Result: yeah that's i mean that's you have to  | Latency:  0.20386362075805664
+ASR Result: yeah that's i mean that's you have to really  | Latency:  0.12203717231750488
+ASR Result: yeah that's i mean that's you have to really put  | Latency:  0.15900850296020508
+ASR Result: yeah that's i mean that's you have to really put  | Latency:  0.16718530654907227
+ASR Result: yeah that's i mean that's you have to really put in a  | Latency:  0.2033367156982422
+ASR Result: yeah that's i mean that's you have to really put in a lot of  | Latency:  0.11823105812072754
+ASR Result: yeah that's i mean that's you have to really put in a lot of time  | Latency:  0.14650726318359375
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you  | Latency:  0.16768336296081543
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to  | Latency:  0.2043769359588623
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a  | Latency:  0.11971926689147949
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of  | Latency:  0.14575719833374023
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of  | Latency:  0.165208101272583
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience  | Latency:  0.19482636451721191
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience  | Latency:  0.22422075271606445
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get  | Latency:  0.12825584411621094
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get luck  | Latency:  0.16022229194641113
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky  | Latency:  0.18523859977722168
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and  | Latency:  0.20804977416992188
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and  | Latency:  0.12412071228027344
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and  | Latency:  0.15593552589416504
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and  | Latency:  0.190657377243042
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and  | Latency:  0.1935262680053711
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's  | Latency:  0.22172904014587402
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's  | Latency:  0.12989234924316406
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean  | Latency:  0.14951777458190918
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean jour  | Latency:  0.17475247383117676
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalis  | Latency:  0.18171143531799316
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism  | Latency:  0.21376585960388184
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole  | Latency:  0.1470167636871338
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field  | Latency:  0.17593836784362793
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field  | Latency:  0.20777630805969238
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like  | Latency:  0.13162493705749512
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that  | Latency:  0.1733686923980713
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you  | Latency:  0.2047872543334961
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta  | Latency:  0.1226511001586914
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have  | Latency:  0.15532517433166504
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connection  | Latency:  0.17540907859802246
+Sending EOS
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connections  | Latency:  0.600151538848877
+ASR Result: yeah that's i mean that's you have to really put in a lot of time you have to get a lot of experience get lucky and that's i mean journalism the whole field is like that you gotta have connections  | Latency:  0.5455937385559082
+ASR Result: END_OF_STREAM  | Latency:  0.4771595001220703
+Avg latency: 0.17377326631904544
+Processing audios/5.wav
+ASR Result:   | Latency:  0.22426152229309082
+ASR Result:   | Latency:  0.15394377708435059
+ASR Result:   | Latency:  0.1871492862701416
+ASR Result: i know  | Latency:  0.2188253402709961
+ASR Result: i know i have  | Latency:  0.13274216651916504
+ASR Result: i know i have a  | Latency:  0.1611623764038086
+ASR Result: i know i have a friend  | Latency:  0.1866457462310791
+ASR Result: i know i have a friend who  | Latency:  0.2212822437286377
+ASR Result: i know i have a friend who  | Latency:  0.14321470260620117
+ASR Result: i know i have a friend who who  | Latency:  0.15905404090881348
+ASR Result: i know i have a friend who who lives  | Latency:  0.171980619430542
+ASR Result: i know i have a friend who who lives in  | Latency:  0.18171954154968262
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.20818805694580078
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.11714911460876465
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.10863614082336426
+ASR Result: i know i have a friend who who lives in michigan  | Latency:  0.12933111190795898
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.1284775733947754
+ASR Result: i know i have a friend who who lives in michigan up  | Latency:  0.12322688102722168
+ASR Result: i know i have a friend who who lives in michigan up until  | Latency:  0.1182241439819336
+ASR Result: i know i have a friend who who lives in michigan up until she  | Latency:  0.10528898239135742
+ASR Result: i know i have a friend who who lives in michigan up until she was  | Latency:  0.18784785270690918
+ASR Result: i know i have a friend who who lives in michigan up until she was in  | Latency:  0.19941163063049316
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.11075758934020996
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school  | Latency:  0.11871767044067383
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.12787485122680664
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.1302025318145752
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.13275790214538574
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.13593053817749023
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so  | Latency:  0.13281702995300293
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.13364768028259277
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.1383652687072754
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.14006543159484863
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah  | Latency:  0.14212703704833984
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she  | Latency:  0.1697216033935547
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved  | Latency:  0.1626296043395996
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it  | Latency:  0.1818103790283203
+ASR Result: i know i have a friend who who lives in michigan up until she was in high school so yeah she loved it there  | Latency:  0.19410324096679688
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.19913482666015625
+Avg latency: 0.17257158547117
+Processing audios/0.wav
+ASR Result:   | Latency:  0.13084864616394043
+ASR Result:   | Latency:  0.1909935474395752
+ASR Result:   | Latency:  0.2251420021057129
+ASR Result: well  | Latency:  0.1596832275390625
+ASR Result: well they laid  | Latency:  0.1815488338470459
+ASR Result: well they laid  | Latency:  0.22530746459960938
+ASR Result: well they laid off  | Latency:  0.14543700218200684
+ASR Result: well they laid off nur  | Latency:  0.18189454078674316
+ASR Result: well they laid off nurses  | Latency:  0.24455738067626953
+ASR Result: well they laid off nurses is  | Latency:  0.17444753646850586
+ASR Result: well they laid off nurses is what they  | Latency:  0.22541284561157227
+ASR Result: well they laid off nurses is what they did  | Latency:  0.15105104446411133
+ASR Result: well they laid off nurses is what they did  | Latency:  0.17939162254333496
+ASR Result: well they laid off nurses is what they did  | Latency:  0.21954584121704102
+ASR Result: well they laid off nurses is what they did  | Latency:  0.15021800994873047
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.17345929145812988
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.21190714836120605
+ASR Result: well they laid off nurses is what they did you know  | Latency:  0.1474895477294922
+ASR Result: well they laid off nurses is what they did you know everybody  | Latency:  0.19158148765563965
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.23188400268554688
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.14284610748291016
+ASR Result: well they laid off nurses is what they did you know everybody else  | Latency:  0.15839767456054688
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.17442560195922852
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.2216043472290039
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.1328437328338623
+ASR Result: well they laid off nurses is what they did you know everybody else got  | Latency:  0.1340022087097168
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.1446526050567627
+ASR Result: well they laid off nurses is what they did you know everybody else got was  | Latency:  0.16463971138000488
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.17351555824279785
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.1835317611694336
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.2136244773864746
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh  | Latency:  0.12516069412231445
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh full  | Latency:  0.13480257987976074
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully  | Latency:  0.15494894981384277
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected  | Latency:  0.16866397857666016
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.19868254661560059
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.2335193157196045
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but  | Latency:  0.14755940437316895
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot  | Latency:  0.17185449600219727
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of  | Latency:  0.1834878921508789
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurs  | Latency:  0.20367217063903809
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses  | Latency:  0.11609649658203125
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking  | Latency:  0.12890291213989258
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the  | Latency:  0.14875197410583496
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits  | Latency:  0.17666196823120117
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now  | Latency:  0.2062849998474121
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.12358283996582031
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.13991880416870117
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.16573715209960938
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.1869487762451172
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so  | Latency:  0.23625445365905762
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should  | Latency:  0.14914441108703613
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be  | Latency:  0.18645048141479492
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.22794318199157715
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.14569425582885742
+ASR Result: well they laid off nurses is what they did you know everybody else got was uh fully protected but a lot of nurses are taking the hits now so should be interesting  | Latency:  0.17614531517028809
+Sending EOS
+ASR Result: END_OF_STREAM  | Latency:  0.6504185199737549
+Avg latency: 0.17358688532450553
+Processing audios/3.wav
+ASR Result:   | Latency:  0.10185027122497559
+ASR Result:   | Latency:  0.11881422996520996
+ASR Result:   | Latency:  0.12924742698669434
+ASR Result:   | Latency:  0.15209221839904785
+ASR Result:   | Latency:  0.1873340606689453
+ASR Result:   | Latency:  0.22275948524475098
+ASR Result: like  | Latency:  0.12282276153564453
+ASR Result: like bas  | Latency:  0.14993739128112793
+ASR Result: like basket  | Latency:  0.20175838470458984
+ASR Result: like basketball  | Latency:  0.12072038650512695
+ASR Result: like basketball  | Latency:  0.132676362991333
+ASR Result: like basketball in high  | Latency:  0.1635599136352539
+ASR Result: like basketball in high school  | Latency:  0.20201635360717773
+ASR Result: like basketball in high school but  | Latency:  0.11754179000854492
+ASR Result: like basketball in high school but  | Latency:  0.1575911045074463
+ASR Result: like basketball in high school but  | Latency:  0.19541239738464355
+ASR Result: like basketball in high school but  | Latency:  0.23876380920410156
+ASR Result: like basketball in high school but really  | Latency:  0.1548304557800293
+ASR Result: like basketball in high school but really don't  | Latency:  0.19881319999694824
+ASR Result: like basketball in high school but really don't like  | Latency:  0.24802231788635254
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.16141033172607422
+ASR Result: like basketball in high school but really don't like that  | Latency:  0.22336483001708984
+ASR Result: like basketball in high school but really don't like that very  | Latency:  0.13078904151916504
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.14886093139648438
+ASR Result: like basketball in high school but really don't like that very well  | Latency:  0.1819171905517578
+ASR Result: like basketball in high school but really don't like that very well now  | Latency:  0.21016383171081543
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.1263446807861328
+ASR Result: like basketball in high school but really don't like that very well now either  | Latency:  0.1561751365661621
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.17882466316223145
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.20229887962341309
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.14481830596923828
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.16392779350280762
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.17304086685180664
+ASR Result: like basketball in high school but really don't like that very well now either and  | Latency:  0.1943216323852539
+ASR Result: like basketball in high school but really don't like that very well now either and base  | Latency:  0.2228548526763916
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.11757326126098633
+ASR Result: like basketball in high school but really don't like that very well now either and baseball  | Latency:  0.15113544464111328
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my hus  | Latency:  0.17849254608154297
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.21840572357177734
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband  | Latency:  0.11576175689697266
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really  | Latency:  0.15932750701904297
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.17330694198608398
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.21012401580810547
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes  | Latency:  0.22045350074768066
+ASR Result: like basketball in high school but really don't like that very well now either and baseball my husband really likes so
