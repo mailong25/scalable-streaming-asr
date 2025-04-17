@@ -1,6 +1,9 @@
-# ASR Server on AWS EKS
+# Scalable Streaming ASR with Amazon AWS
 
-This repository contains all necessary files and instructions to deploy an Automatic Speech Recognition (ASR) server on AWS Elastic Kubernetes Service (EKS) with GPU sharing, autoscaling, and monitoring capabilities.
+This repository contains all necessary files and instructions to deploy a streaming Automatic Speech Recognition (ASR) service with AWS Elastic Kubernetes Service (EKS).
+
+## 📦 Pipeline overview
+<img src="pipleline.png">
 
 ---
 
@@ -46,7 +49,7 @@ Ensure the following policies are attached to your IAM user:
 | `asr_server.py`         | FastAPI application endpoint, manages request queue and client pool. |
 | `audios/`               | Sample audios for testing. |
 | `client_logs/`          | Logging for client call results. |
-| `client.py`             | Simple script for testing ASR service. |
+| `client.py`             | Simple script for sending streaming audios and receiving ASR transcription. |
 | `client.sh`             | Bash script for simulating multiple client calls. |
 | `config.py`             | Configuration for the ASR server and clients. |
 | `cluster.yaml`          | Defines EKS cluster parameters. |
@@ -124,6 +127,7 @@ Already implemented, files to modify if needed:
  - client.py
  - client.sh
 ```
+We use the FastConformer model from [Nemo ASR hub](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/asr/all_chkpt.html) as the serving ASR model. You can change the ASR model by modifying asr.py file.
 
 ## 🐳 Build & Push Docker Image
 Change to your docker_repo if needed. If you want to use my already built Docker image, you can skip this step
@@ -143,16 +147,17 @@ kubectl get pods -A
 ```
 
 ## 🧪 Test ASR Service
-- Locate Load Balancer DNS from AWS Console.
-- Update SERVER_URI in config.py.
-- Run:
+- Locate Load Balancer DNS from your AWS Console.
+- Update SERVER_URI = Load Balancer DNS in config.py.
+- Run a test:
 ```
 python client.py
 ```
 
-## Now the autoscaling part
+## Set up for the autoscaling part
 
 ## ⚙️ GPU Time Sharing with NVIDIA Plugin
+This is useful for sharing NVIDIA GPU between pods
 ```
 kubectl create -n kube-system -f time-slicing-config-all.yaml
 
@@ -275,12 +280,12 @@ helm upgrade --install cluster-autoscaler autoscaler/cluster-autoscaler \
 
 ```
 
-## 🔁 Run Load Test
-This will spawn 40 clients to call the API
+## 🔁 Now Run Load Test
+This will gradually spawn 40 clients to call the ASR server. 
 ```
 sh client.sh 40 30
 ```
-Now use Prometheus to monitoring:
+The Cluster should automatically scale up the number of pods/nodes during peak traffic periods. Then gradually scale down pods/nodes as the number of requests decreasing. You can use Prometheus for monitoring the number of requests/latency from each pod:
  - Total Requests per Minute:
 ```
 sum(rate(response_latency_seconds_count[1m]))
