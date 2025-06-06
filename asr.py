@@ -14,7 +14,7 @@ from torch.cuda.amp import autocast
 logging.setLevel(logging.ERROR)
 
 class ASR:
-    def __init__(self, model_name = "stt_en_fastconformer_hybrid_large_streaming_multi",
+    def __init__(self, model_name = "./stt_en_fastconformer_hybrid_large_streaming_multi.nemo",
                  chunk_size_ms = 200,
                  lookahead_ms = 80, # [0, 80, 480, 1040]
                  decoder_type = 'rnnt',
@@ -22,13 +22,13 @@ class ASR:
                  use_fp16=True):
         
         # Load the ASR model
-        asr_model = nemo_asr.models.ASRModel.from_pretrained(model_name=model_name)
+        asr_model = nemo_asr.models.ASRModel.restore_from(restore_path=model_name)
         asr_model.eval()
         
         step_ms = 80
         self.chunk_size_frame = int((chunk_size_ms / 1000) * asr_model.cfg.sample_rate)
         
-        if model_name == "stt_en_fastconformer_hybrid_large_streaming_multi":
+        if "stt_en_fastconformer_hybrid_large_streaming_multi" in model_name:
             left_context_size = asr_model.encoder.att_context_size[0]
             asr_model.encoder.set_default_att_context_size([left_context_size, int(lookahead_ms / step_ms)])
         

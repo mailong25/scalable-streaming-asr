@@ -6,5 +6,5 @@ REQ_CHUNK_SIZE_MS = 200
 REQ_CHUNK_SIZE_FRAME = int((REQ_CHUNK_SIZE_MS / 1000) * SAMPLING_RATE)
 BATCHING_TIMEOUT_MS = 20
 BATCHING_SIZE = 16
-ASR_MODEL = "stt_en_fastconformer_hybrid_large_streaming_multi"
-SERVER_URI = "YOUR_ALB_DNS_HERE"
+ASR_MODEL = "./stt_en_fastconformer_hybrid_large_streaming_multi.nemo"
+SERVER_URI = "ws://k8s-default-asringre-9a3a94e38b-1733690343.eu-west-1.elb.amazonaws.com/ws"

@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: DaemonSet
+metadata:
+  name: image-prepuller
+  namespace: kube-system
+spec:
+  selector:
+    matchLabels:
+      name: image-prepuller
+  template:
+    metadata:
+      labels:
+        name: image-prepuller
+    spec:
+      containers:
+      - name: prepuller
+        image: mailong25/asr-server:latest
+        command: ["sleep", "3600"]  # stay alive for 1 hour
+      tolerations:
+      - operator: Exists  # run on all nodes

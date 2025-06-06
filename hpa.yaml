@@ -8,8 +8,8 @@ spec:
     name: asr-deployment  # Name of the Kubernetes Deployment to scale
   minReplicaCount: 1  # Minimum number of replicas to maintain
   maxReplicaCount: 6  # Maximum number of replicas allowed
-  cooldownPeriod: 30  # (Optional) Time in seconds to wait before scaling down after the last trigger (1 minutes)
-  pollingInterval: 10  # Frequency (in seconds) to check the trigger metric (30 seconds)
+  cooldownPeriod: 20  # (Optional) Time in seconds to wait before scaling down after the last trigger (1 minutes)
+  pollingInterval: 5  # Frequency (in seconds) to check the trigger metric (30 seconds)
   triggers:
   - type: prometheus  # Type of scaler; using Prometheus as the trigger source
     metadata:

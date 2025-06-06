@@ -17,6 +17,7 @@ spec:
         prometheus.io/path: "/metrics"  # Path to scrape metrics from
         prometheus.io/port: "5000"      # Port on which metrics are exposed
     spec:
+      priorityClassName: asr-app
       containers:
       - name: asr                         # Name of the container
         image: mailong25/asr-server:latest  # Docker image to run inside the container

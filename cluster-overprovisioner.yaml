@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cluster-overprovisioner
+  namespace: kube-system
+spec:
+  replicas: 1  # Adjust this based on how much headroom you need
+  selector:
+    matchLabels:
+      app: cluster-overprovisioner
+  template:
+    metadata:
+      labels:
+        app: cluster-overprovisioner
+    spec:
+      priorityClassName: overprovisioner
+      containers:
+      - name: pause
+        image: mailong25/asr-server:latest
+        resources:
+          limits:
+            nvidia.com/gpu: 1
+          requests:
+            cpu: 100m
+            memory: 100Mi
