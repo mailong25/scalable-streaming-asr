@@ -54,6 +54,9 @@ Ensure the following policies are attached to your IAM user:
 | `client.sh`             | Bash script for simulating multiple client calls. |
 | `config.py`             | Configuration for the ASR server and clients. |
 | `cluster.yaml`          | Defines EKS cluster parameters. |
+| `pre-pull.yaml`          | Pull docker image immediately when a new node is provisioned |
+| `priority-classes.yaml`  | Set deployment pod higher priority than reversed node (for over provisioning) |
+| `cluster-overprovisioner.yaml`          | Config for over provisioning |
 | `deployment.yaml`       | ASR pod deployment configuration. |
 | `Dockerfile`            | For building the ASR Docker image. |
 | `requirements.txt`      | Python dependencies for Docker image. |
@@ -76,7 +79,6 @@ Ensure the following policies are attached to your IAM user:
 ```
 CLUSTER_NAME="asr-cluster"
 REGION="eu-west-1"
-VPC_ID="YOUR_VPC"
 ACCOUNT_ID="YOUR_ACCOUNT_ID"
 POLICY_NAME="AWSLoadBalancerControllerIAMPolicy"
 SA_NAME="aws-load-balancer-controller"
@@ -130,12 +132,20 @@ Already implemented, files to modify if needed:
 ```
 We use the FastConformer model from [Nemo ASR hub](https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/asr/all_chkpt.html) as the serving ASR model. You can change the ASR model by modifying asr.py file.
 
+In this project we use [STT En FastConformer Hybrid Transducer-CTC Large Streaming Multi ](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/nemo/models/stt_en_fastconformer_hybrid_large_streaming_multi). Please download the model and put it in the current directory and name the model as stt_en_fastconformer_hybrid_large_streaming_multi.nemo (just to make sure the Docker build working prorperly).
+
 ## 🐳 Build & Push Docker Image
 Change to your docker_repo if needed. If you want to use my already built Docker image, you can skip this step
 ```
 DOCKER_REPO="mailong25/asr-server"
 docker build -t $DOCKER_REPO .
 docker push $DOCKER_REPO
+```
+
+## 🐳 Init setup
+```
+kubectl apply -f pre-pull.yaml
+kubectl apply -f priority-classes.yaml
 ```
 
 ## 📦 Deploy ASR Application
@@ -156,25 +166,6 @@ python client.py
 ```
 
 ## Set up for the autoscaling part
-
-## ⚙️ GPU Time Sharing with NVIDIA Plugin
-This is useful for sharing NVIDIA GPU between pods
-```
-kubectl create -n kube-system -f time-slicing-config-all.yaml
-
-helm repo add nvdp https://nvidia.github.io/k8s-device-plugin
-helm repo update
-
-helm upgrade -i nvdp nvdp/nvidia-device-plugin \
-    --version=0.14.1 \
-    --namespace kube-system \
-    --create-namespace \
-    --set config.name=time-slicing-config-all
-
-kubectl scale deployment asr-deployment --replicas=2
-kubectl get pods -A
-
-```
 
 ## 📈 Set Up Prometheus for Monitoring
 ```
@@ -279,6 +270,12 @@ helm upgrade --install cluster-autoscaler autoscaler/cluster-autoscaler \
   --set extraArgs.max-node-provision-time=15m \
   --set extraArgs.scan-interval=1m
 
+```
+
+## [Optional] 📈 Setup Cluster Overprovisioning
+ - Keep a buffer of running reserved pods to handle sudden spikes in demand during peak periods. This helps avoid increased latency caused by delays in provisioning new nodes.
+```
+kubectl apply -f cluster-overprovisioner.yaml
 ```
 
 ## 🔁 Now Run Load Test
